@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Sobre el blog
+tags: [Acerca de, Blog]
+date: 2024-01-02
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Hola y bienvenido a mi blog, mi nombre es Nicolás Tobias y soy ingeniero informático de profesión. El propósito de este espacio es enseñarte, de la manera más fácil posible, todo lo que sé respecto a las matemáticas y la computación, aunque también podrías encontrarte con otro tipo de contenido.
 
-## Preview
+En la página inicial del blog encontrarás dos pestañas: una con todas la publicaciones que iré subiendo y otra con proyectos (cursos, programas, etc.).
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Antes de terminar, quiero hacer mención honorífica a la interfaz que utilizo para mi página ya que el tema fue facilitado por TaylanTatli, cuyo GitHub y Demo se adjuntan a continuación:
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+[GitHub](https://github.com/TaylanTatli/Moon){: .btn}
 
-## Getting Started
+[Demo](http://taylantatli.github.io/Moon){: .btn}
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Sin más que agregar, espero que aquí encuentres lo que tanto buscas y te doy las gracias desde ya por visitar mi sitio.
