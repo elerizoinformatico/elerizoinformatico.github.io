@@ -3,7 +3,7 @@ layout: post
 title: "Primer post"
 date: 2024-01-02
 excerpt: "Bienvenida al blog"
-tags: [test]
+tags: [primer post, articulo]
 comments: false
 ---
 
