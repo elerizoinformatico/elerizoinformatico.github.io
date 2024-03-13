@@ -2,7 +2,7 @@
 layout: post
 title:  "Curso de Integrales"
 date:   2024-02-01
-excerpt: "Curso de Cálculo Integral de cero a experto"
+excerpt: "Curso de Cálculo Integral de cero a experto."
 project: true
 tag:
 - Proyecto 
