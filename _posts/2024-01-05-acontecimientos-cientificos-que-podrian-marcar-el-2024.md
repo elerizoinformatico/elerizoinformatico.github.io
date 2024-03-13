@@ -25,7 +25,7 @@ Este 2024 el Observatorio Vera C. Rubin en Chile comenzará su estudio planifica
 
 El Observatorio Simons, situado en el desierto de Atacama (Chile), estará terminado a mediados de 2024. Este experimento de última generación buscará indicios de ondas gravitacionales primigenias, el famoso resplandor del **Big Bang**.
 
-![Nuevos supertelescopios](/assets/img/nuevos-super-telescopios.jpeg)
+![Nuevos supertelescopios](/assets/img/super-telescopios.jpeg)
 
 ## Mosquitos producidos en masa
 
