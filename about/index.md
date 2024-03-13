@@ -14,6 +14,10 @@ Antes de terminar, quiero hacer mención honorífica a la interfaz que utilizo p
 
 [GitHub](https://github.com/TaylanTatli/Moon){: .btn btn-info}
 
+<div markdown="0">
+    <center><a href="https://github.com/TaylanTatli/Moon" class="btn btn-info">GitHub</a></center>
+</div>
+
 [Demo](http://taylantatli.github.io/Moon){: .btn}
 
 Sin más que agregar, espero que aquí encuentres lo que tanto buscas y te doy las gracias desde ya por visitar mi sitio.
