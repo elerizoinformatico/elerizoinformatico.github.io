@@ -16,8 +16,9 @@ Antes de terminar, quiero hacer mención honorífica a la interfaz que utilizo p
 
 [Demo](http://taylantatli.github.io/Moon){: .btn}
 
-| [GitHub](https://github.com/TaylanTatli/Moon){: .btn .btn-info} |
+| <!-- --> |
 |:---:|
+| [GitHub](https://github.com/TaylanTatli/Moon){: .btn .btn-info} |
 | [Demo](http://taylantatli.github.io/Moon){: .btn .btn-info} |
 
 Sin más que agregar, espero que aquí encuentres lo que tanto buscas y te doy las gracias desde ya por visitar mi sitio.
