@@ -12,7 +12,8 @@ En la página inicial del blog encontrarás dos pestañas: una con todas la publ
 
 Antes de terminar, quiero hacer mención honorífica a la interfaz que utilizo para mi página ya que el tema fue facilitado por **TaylanTatli**, cuyo GitHub y Demo se adjuntan a continuación:
 
-<div markdown="0"><a href="https://github.com/TaylanTatli/Moon" class="btn btn-info">GitHub</a></div>
-<div markdown="0"><a href="http://taylantatli.github.io/Moon" class="btn btn-info">Demo</a></div>
+[GitHub](https://github.com/TaylanTatli/Moon){: .btn}
+
+[ Demo ](http://taylantatli.github.io/Moon){: .btn}
 
 Sin más que agregar, espero que aquí encuentres lo que tanto buscas y te doy las gracias desde ya por visitar mi sitio.
