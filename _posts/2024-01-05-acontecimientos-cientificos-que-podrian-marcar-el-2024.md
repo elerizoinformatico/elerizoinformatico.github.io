@@ -9,10 +9,9 @@ comments: false
 
 Existe una lista de acontecimientos científicos que probablemente marcarán el 2024. De acuerdo con la revista británica **Nature**, la inteligencia artificial, una nueva generación de vacunas, supercomputadoras de última generación y misiones a la luna, son las noticias que nos tendrán pendientes en el transcurso del año.
 
-<figure class="half">
-	<center>![La IA sigue ganando terreno](/assets/img/chatgpt5.jpg)</center>
-	<center>![Nuevos supertelescopios](/assets/img/super-telescopios.jpg)</center>
-</figure>
+| <!-- --> | <!-- --> |
+|:---:|:---:|
+| ![La IA sigue ganando terreno](/assets/img/chatgpt5.jpg) | ![Nuevos supertelescopios](/assets/img/super-telescopios.jpg) |
 
 ## La Inteligencia Artificial sigue ganando terreno
 
