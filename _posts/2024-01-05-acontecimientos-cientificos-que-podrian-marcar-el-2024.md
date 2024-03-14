@@ -4,7 +4,7 @@ title: "Acontecimientos científicos que podrían marcar el 2024"
 date: 2024-01-05
 excerpt: "El avance de la inteligencia artificial, una nueva generación de vacunas, supercomputadoras y misiones a la luna son algunas de las noticias que destacan para este año."
 tags: [Articulo, Ciencia, Blog]
-comments: true
+comments: false
 ---
 
 Existe una lista de acontecimientos científicos que probablemente marcarán el 2024. De acuerdo con la revista británica **Nature**, la inteligencia artificial, una nueva generación de vacunas, supercomputadoras de última generación y misiones a la luna, son las noticias que nos tendrán pendientes en el transcurso del año.
@@ -65,7 +65,6 @@ Te invito a leer algunos artículos relacionados al tema:
 * [¿Qué acontecimientos científicos marcarán el 2024?](https://www.dw.com/es/los-acontecimientos-cient%C3%ADficos-de-2024-seg%C3%BAn-la-revista-nature/a-67785037)
 * [Descubrimientos científicos: tendencias emergentes de interés para 2024](https://www.cas.org/es-es/resources/cas-insights/emerging-science/scientific-breakthroughs-2024-emerging-trends-watch)
 
----
 ---
 
 <script src="https://utteranc.es/client.js"
