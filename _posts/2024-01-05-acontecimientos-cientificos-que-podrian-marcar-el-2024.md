@@ -56,3 +56,19 @@ Por otro lado, en Estados Unidos también se inaugurarán dos supercomputadoras 
 ## Materia oscura a la vista
 
 **BabyIAXO** es uno de los experimentos más prometedores para comprender el comportamiento de la materia oscura, esta sustancia que conforma casi el 70% del universo. Expondrá sus resultados en 2024 y con ello se intenta identificar el momento en el que unas partículas teóricas conocidas como axiones se convierten en fotones, las unidades de las que está conformada la luz.
+
+## ¿Quieres saber más?
+
+Te invito a leer algunos artículos relacionados al tema:
+
+* [Eventos científicos que debes seguir en 2024, según Nature](https://es.wired.com/articulos/eventos-cientificos-que-debes-seguir-en-2024-segun-la-revista-nature)
+* [¿Qué acontecimientos científicos marcarán el 2024?](https://www.dw.com/es/los-acontecimientos-cient%C3%ADficos-de-2024-seg%C3%BAn-la-revista-nature/a-67785037)
+* [Descubrimientos científicos: tendencias emergentes de interés para 2024](https://www.cas.org/es-es/resources/cas-insights/emerging-science/scientific-breakthroughs-2024-emerging-trends-watch)
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>
