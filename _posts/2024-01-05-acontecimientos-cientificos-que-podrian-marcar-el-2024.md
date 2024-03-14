@@ -65,6 +65,8 @@ Te invito a leer algunos artículos relacionados al tema:
 * [¿Qué acontecimientos científicos marcarán el 2024?](https://www.dw.com/es/los-acontecimientos-cient%C3%ADficos-de-2024-seg%C3%BAn-la-revista-nature/a-67785037)
 * [Descubrimientos científicos: tendencias emergentes de interés para 2024](https://www.cas.org/es-es/resources/cas-insights/emerging-science/scientific-breakthroughs-2024-emerging-trends-watch)
 
+---
+
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
         issue-term="pathname"
