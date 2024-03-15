@@ -29,9 +29,14 @@ Donde:
 
 ### Ejemplos:
 
-| Ecuación | ¿Es de segundo grado? |
-|:---:|:---:|
-| \\( 2x^2 + 5x + 3 = 0 \\) | Si |
+| Ecuación | ¿Es de segundo grado? | Detalle |
+|:---:|:---:|:---:|
+| \\( 2x^2 + 5x + 3 = 0 \\) | Si | Ecuación de segundo grado completa (**a**, **b** y **c** distintos de 0) |
+| \\( -x^2 + x + 1 = 0 \\) | Si | Ecuación de segundo grado completa (**a**, **b** y **c** distintos de 0) |
+| \\( 2x^2 - 72 = 0 \\) | Si | Ecuación de segundo grado incompleta (**b** es igual a 0) |
+| \\( x^2 - 3x = 0 \\) | Si | Ecuación de segundo grado incompleta (**c** es igual a 0 |
+| \\( 5x - 3 = 0 \\) | No | Ecuación de primer grado |
+{: rules="groups"}
 
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
