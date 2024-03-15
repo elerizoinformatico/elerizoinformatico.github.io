@@ -2,7 +2,7 @@
 layout: post
 title:  "Ecuación de segundo grado I"
 date:   2024-01-10
-excerpt: "Primera parte del curso de la ecuación de segundo grado en donde veras su dfinición, clasificación y métodos de resolución"
+excerpt: "Primera parte del curso de la ecuación de segundo grado en donde verás su dfinición, clasificación y métodos de resolución"
 tag:
 - Articulo
 - Matematicas
@@ -26,6 +26,12 @@ Donde:
 * **a**, **b** y **c** son valores conocidos (también llamados coeficientes)
 * **a** no puede ser igual a **0** (\\( a \neq 0 \\))
 * **x** es la incógnita (el valor que estamos buscando)
+
+### Ejemplos:
+
+| Ecuación | ¿Es de segundo grado? |
+|:---:|:---:|
+| \\( 2x^2 + 5x + 3 = 0 \\) | Si |
 
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
