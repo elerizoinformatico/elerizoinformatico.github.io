@@ -10,7 +10,7 @@ tag:
 comments: false
 ---
 
-Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, \\( x^2 \\))
+Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, \\( x^2 \\) ).
 
 ## Forma estándar
 
@@ -24,7 +24,7 @@ $$
 
 Donde:
 * `a`, `b` y `c` son valores conocidos (también llamados coeficientes)
-* `a` no puede ser igual a `0` (\\( a \neq 0 \\))
+* `a` no puede ser igual a `0` ( \\( a \neq 0 \\) )
 * `x` es la incógnita (el valor que estamos buscando)
 
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
