@@ -30,7 +30,7 @@ Donde:
 ### Ejemplos:
 
 | Ecuación | ¿Es de segundo grado? | Detalle |
-|:---:|:---:|:---:|
+|:----|:---:|:----|
 | \\( 2x^2 + 5x + 3 = 0 \\) | Si | Ecuación de segundo grado completa (**a**, **b** y **c** distintos de 0) |
 | \\( -x^2 + x + 1 = 0 \\) | Si | Ecuación de segundo grado completa (**a**, **b** y **c** distintos de 0) |
 | \\( 2x^2 - 72 = 0 \\) | Si | Ecuación de segundo grado incompleta (**b** es igual a 0) |
