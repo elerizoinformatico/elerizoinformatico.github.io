@@ -1,16 +1,31 @@
 ---
 layout: post
-title:  "MathJax Example"
-date:   2015-08-10
-excerpt: "MathJax Example for Moon Jekyll Theme."
+title:  "Ecuación de segundo grado I"
+date:   2024-01-10
+excerpt: "Primera parte del curso de la ecuación de segundo grado en donde veras su dfinición, clasificación y métodos de resolución"
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
-comments: true
+- Articulo
+- Matematicas
+- Blog
+comments: false
 ---
+
+Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, \\( x^2 \\))
+
+## Forma estándar
+
+La forma estándar de una ecuación cuadrática es la siguiente:
+
+$$
+\begin{align*}
+ax^2 + bx + c &= 0
+\end{align*}
+$$
+
+Donde:
+* `a`, `b` y `c` son valores conocidos (también llamados coeficientes)
+* `a` no puede ser igual a `0` (\\( a \neq 0 \\))
+* `x` es la incógnita (el valor que estamos buscando)
 
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
