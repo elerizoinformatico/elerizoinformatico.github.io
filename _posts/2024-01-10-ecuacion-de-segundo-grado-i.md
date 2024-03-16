@@ -100,16 +100,42 @@ x^2 &= 36
 \end{align*}
 $$
 
+Y aplicando raíz cuadrada nos queda:
+
+$$
+\begin{align*}
+\sqrt{x^2} &= \pm \sqrt{36}\\
+x &= \pm 6
+\end{align*}
+$$
+
+Lo que significa que las **soluciones** o **raíces** de la ecuación son **6** y **-6**. Realicemos una comprobación:
+
+$$
+\begin{align*}
+2x^2 - 72 &= 0\\
+2 \cdot (6^2) - 72 &= 0\\
+72 - 72 &= 0\\
+0 &= 0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+2x^2 - 72 &= 0\\
+2 \cdot (-6)^2 - 72 &= 0\\
+72 - 72 &= 0\\
+0 &= 0
+\end{align*}
+$$
+
+Otra forma de resolver este tipo de ecuaciones es utilizando el producto notable **suma por su diferencia**:
+
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
 ## Usage
 
 To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
-
-~~~
-markdown: kramdown
-mathjax: true
-~~~
 
 ~~~
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
