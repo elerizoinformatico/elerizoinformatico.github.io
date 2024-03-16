@@ -139,6 +139,7 @@ $$
 
 $$
 \begin{align*}
+2x^2 - 72 &= 0\\
 \frac{2x^2}{2} - \frac{72}{2} &= 0\\
 x^2 - 36 &= 0\\
 x^2 - 6^2 &= 0\\
@@ -163,6 +164,39 @@ x &= -6
 $$
 
 **Binomial o Mixta:** Para este tipo de ecuaciones, debemos factorizar por **x** para que de esta forma la ecuación se convierta en un producto de dos términos lineales. En estas ecuaciones, una de sus soluciones siempre será igual a **0**.
+
+Ejemplo:
+
+$$
+\begin{align*}
+x^2 - 3x &= 0\\
+\end{align*}
+$$
+
+Factorizando por **x** tenemos que:
+
+$$
+\begin{align*}
+x(x - 3) &= 0\\
+\end{align*}
+$$
+
+Y si separamos los términos líneales nos queda:
+
+$$
+\begin{align*}
+x &= 0
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x - 3 &= 0\\
+x &= 3
+\end{align*}
+$$
+
+Por lo tanto, las soluciones o raíces para la ecuación son **0** y **3**.
 
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
