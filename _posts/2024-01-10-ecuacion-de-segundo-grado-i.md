@@ -31,10 +31,11 @@ Donde:
 
 | Ecuación | Detalle | ¿Es de segundo grado? |
 |:----|:----|:----|
-| \\( 2x^2 + 5x + 3 = 0 \\) | Los coeficientes **a**, **b** y **c** son distintos de 0) | Si |
-| \\( -x^2 + x + 1 = 0 \\) | Los coeficientes **a**, **b** y **c** son distintos de 0) | Si |
+| \\( 2x^2 + 5x + 3 = 0 \\) | Los coeficientes **a**, **b** y **c** son distintos de 0 | Si |
+| \\( -x^2 + x + 1 = 0 \\) | Los coeficientes **a**, **b** y **c** son distintos de 0 | Si |
 | \\( 2x^2 - 72 = 0 \\) | El coeficiente **b** es igual a 0 | Si |
 | \\( x^2 - 3x = 0 \\) | El coeficiente **c** es igual a 0 | Si |
+| \\( x^2 = 0 \\) | Los coeficientes **b** y **c** son iguales a 0 | Si | 
 | \\( 5x - 3 = 0 \\) | Ecuación lineal o de primer grado | No |
 {: rules="groups"}
 
