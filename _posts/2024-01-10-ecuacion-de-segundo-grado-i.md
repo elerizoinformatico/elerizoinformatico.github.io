@@ -131,6 +131,39 @@ $$
 
 Otra forma de resolver este tipo de ecuaciones es utilizando el producto notable **suma por su diferencia**:
 
+$$
+\begin{align*}
+a^2 - b^2 &= (a + b)(a - b)
+\end{align*}
+$$
+
+$$
+\begin{align*}
+\frac{2x^2}{2} - \frac{72}{2} &= 0\\
+x^2 - 36 &= 0\\
+x^2 - 6^2 &= 0\\
+(x - 6)(x + 6) &= 0
+\end{align*}
+$$
+
+De esta forma, obtendremos dos ecuaciones lineales:
+
+$$
+\begin{align*}
+x - 6 &= 0\\
+x &= 6
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x + 6 &= 0\\
+x &= -6
+\end{align*}
+$$
+
+**Binomial o Mixta:** Para este tipo de ecuaciones, debemos factorizar por **x** para que de esta forma la ecuación se convierta en un producto de dos términos lineales. En estas ecuaciones, una de sus soluciones siempre será igual a **0**.
+
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
 ## Usage
