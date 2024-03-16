@@ -57,7 +57,7 @@ $$
 
 Al menos uno de los coeficientes **b** y **c** es igual a **0**. En este grupo, encontraremos dos sub-grupos:
 
-**Pura:** El coeficiente **b** es igual a **0**, es decir, la ecuación tiene la forma:
+**2.1. Pura:** El coeficiente **b** es igual a **0**, es decir, la ecuación tiene la forma:
 
 $$
 \begin{align*}
@@ -65,7 +65,7 @@ ax^2 + c &= 0
 \end{align*}
 $$
 
-**Binomial o Mixta:** El coeficiente **c** es igual a **0**, es decir, la ecuación tiene la forma:
+**2.2. Binomial o Mixta:** El coeficiente **c** es igual a **0**, es decir, la ecuación tiene la forma:
 
 $$
 \begin{align*}
@@ -76,6 +76,10 @@ $$
 ## Resolución
 
 Lo primero que debemos tener en cuenta es que en una ecuación cuadrática tendremos **2 soluciones**, las cuales pueden ser **distintas** o **iguales**. A estas soluciones también se les conoce como **raíces** o **ceros** de la ecuación.
+
+### Resolución de ecuaciones incompletas
+
+Hola amigos.
 
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
