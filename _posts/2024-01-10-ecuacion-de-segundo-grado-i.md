@@ -43,7 +43,7 @@ Donde:
 
 Una ecuación cuadrática se puede clasificar en dos grupos:
 
-### 1. Completa
+### Completa
 
 Los coeficientes **a**, **b** y **c** son distintos de **0**, es decir, la ecuación tiene la forma:
 
@@ -53,11 +53,11 @@ ax^2 + bx + c &= 0
 \end{align*}
 $$
 
-### 2. Incompleta
+### Incompleta
 
 Al menos uno de los coeficientes **b** y **c** es igual a **0**. En este grupo, encontraremos dos sub-grupos:
 
-**2.1. Pura:** El coeficiente **b** es igual a **0**, es decir, la ecuación tiene la forma:
+**Pura:** El coeficiente **b** es igual a **0**, es decir, la ecuación tiene la forma:
 
 $$
 \begin{align*}
@@ -65,7 +65,7 @@ ax^2 + c &= 0
 \end{align*}
 $$
 
-**2.2. Binomial o Mixta:** El coeficiente **c** es igual a **0**, es decir, la ecuación tiene la forma:
+**Binomial o Mixta:** El coeficiente **c** es igual a **0**, es decir, la ecuación tiene la forma:
 
 $$
 \begin{align*}
@@ -79,7 +79,26 @@ Lo primero que debemos tener en cuenta es que en una ecuación cuadrática tendr
 
 ### Resolución de ecuaciones incompletas
 
-Hola amigos.
+**Pura:** Para este tipo de ecuaciones, basta con despejar la incógnita (\\( x^2 \\)) y aplicar raíz cuadrada para obtener las soluciones.
+
+Ejemplo:
+
+$$
+\begin{align*}
+2x^2 - 72 &= 0
+\end{align*}
+$$
+
+Si despejamos **x** tenemos que:
+
+$$
+\begin{align*}
+2x^2 - 72 &= 0\\
+2x^2 &= 72\\
+x^2 &= \frac{72}{2}\\
+x^2 &= 36
+\end{align*}
+$$
 
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
