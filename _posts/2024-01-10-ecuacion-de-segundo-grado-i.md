@@ -114,7 +114,7 @@ Lo que significa que las **soluciones** o **raíces** de la ecuación son **6** 
 $$
 \begin{align*}
 2x^2 - 72 &= 0\\
-2 \cdot (6^2) - 72 &= 0\\
+2 \cdot (6)^2 - 72 &= 0\\
 72 - 72 &= 0\\
 0 &= 0
 \end{align*}
