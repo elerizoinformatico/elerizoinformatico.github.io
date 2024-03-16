@@ -12,7 +12,7 @@ comments: false
 
 Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, \\( x^2 \\)).
 
-# Forma estándar
+## Forma estándar
 
 La forma estándar de una ecuación cuadrática es la siguiente:
 
@@ -30,7 +30,7 @@ Donde:
 ### Ejemplos:
 
 | Ecuación | Detalle | ¿Es de segundo grado? |
-|:----|:----|:----|
+|:---:|:---:|:---:|
 | \\( 2x^2 + 5x + 3 = 0 \\) | Los coeficientes **a**, **b** y **c** son distintos de 0 | Si |
 | \\( -x^2 + x + 1 = 0 \\) | Los coeficientes **a**, **b** y **c** son distintos de 0 | Si |
 | \\( 2x^2 - 72 = 0 \\) | El coeficiente **b** es igual a 0 | Si |
