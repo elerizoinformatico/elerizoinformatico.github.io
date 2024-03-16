@@ -43,6 +43,42 @@ Donde:
 
 Una ecuación cuadrática se puede clasificar en dos grupos:
 
+### 1. Completa
+
+Los coeficientes **a**, **b** y **c** son distintos de **0**, es decir, la ecuación tiene la forma:
+
+$$
+\begin{align*}
+ax^2 + bx + c &= 0
+\end{align*}
+$$
+
+### 2. Incompleta
+
+Al menos uno de los coeficientes **b** y **c** es igual a **0**. En este grupo, encontraremos dos subgrupos:
+
+#### 2.1. Pura
+
+El coeficiente **b** es igual a **0**, es decir, la ecuación tiene la forma:
+
+$$
+\begin{align*}
+ax^2 + c &= 0
+\end{align*}
+$$
+
+#### 2.2. Binomial o Mixta
+
+El coeficiente **c** es igual a **0**, es decir, la ecuación tiene la forma:
+
+$$
+\begin{align*}
+ax^2 + bx &= 0
+\end{align*}
+$$
+
+## Resolución
+
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
 ## Usage
