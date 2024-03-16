@@ -12,7 +12,7 @@ comments: false
 
 Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, \\( x^2 \\)).
 
-## Forma estándar
+# Forma estándar
 
 La forma estándar de una ecuación cuadrática es la siguiente:
 
@@ -38,6 +38,10 @@ Donde:
 | \\( x^2 = 0 \\) | Los coeficientes **b** y **c** son iguales a 0 | Si | 
 | \\( 5x - 3 = 0 \\) | Ecuación lineal o de primer grado | No |
 {: rules="groups"}
+
+## Clasificación
+
+Una ecuación cuadrática se puede clasificar en dos grupos:
 
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
