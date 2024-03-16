@@ -198,6 +198,60 @@ $$
 
 Por lo tanto, las soluciones o raíces para la ecuación son **0** y **3**.
 
+### Resolución de ecuaciones completas
+
+Para este tipo de ecuaciones podemos **factorizar** o bien, utilizar la **fórmula general** de resolución (la cual veremos más adelante en detalle).
+
+Ejemplo:
+
+$$
+\begin{align*}
+x^2 - 5x + 6 &= 0
+\end{align*}
+$$
+
+Para resolverla mediante **factorización**, debemos recordar el **producto de dos binomios con término común**:
+
+$$
+\begin{align*}
+x^2 + (a + b)x + ab &= (x + a)(x + b)
+\end{align*}
+$$
+
+Con esto aclarado, debemos encontrar entonces dos números que al multiplicarlos nos de **6** y que al sumarlos nos de **-5**.
+
+Posibles opciones:
+* \\( 6 \\) y \\( 1 \\): La multiplicación se cumple pero no la suma (\\( 6 \cdot 1 = 6 \\) y \\( 6 + 1 = 7 \\)). Por lo tanto, no son los números que buscamos.
+* \\( 3 \\) y \\( 2 \\): La multiplicación se cumple pero no la suma (\\( 3 \cdot 2 = 6 \\) y \\( 3 + 2 = 5 \\)). Por lo tanto, no son los números que buscamos.
+* \\( -3 \\) y \\( 2 \\): Tanto la multiplicación como la suma no se cumplen (\\( -3 \cdot 2 = -6 \\) y \\( -3 + 2 = -1 \\)). Por lo tanto, no son los números que buscamos.
+* \\( -3 \\) y \\( -2 \\): La multiplicación y la suma se cumplen (\\( -3 \cdot -2 = 6 \\) y \\( -3 + -2 = -5 \\)). Por lo tanto, son los números que buscamos.
+
+Por lo tanto, la ecuación \\( x^2 - 5x + 6 = 0 \\) podemos escribirla como:
+
+$$
+\begin{align*}
+(x - 2)(x - 3) &= 0
+\end{align*}
+$$
+
+En donde tenemos que:
+
+$$
+\begin{align*}
+x - 2 &= 0\\
+x &= 2
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x - 3 &= 0\\
+x &= 3
+\end{align*}
+$$
+
+Finalmente, las raíces de la ecuación son **2** y **3**.
+
 [MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
 
 ## Usage
