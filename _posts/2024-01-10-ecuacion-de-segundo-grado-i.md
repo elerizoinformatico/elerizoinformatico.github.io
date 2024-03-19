@@ -256,15 +256,19 @@ Para resolver este mismo ejercicio mediante la completación de cuadrados, debem
 
 $$
 \begin{align*}
-(a + b)^2 &= a^2 + 2ab + b^2
+(a - b)^2 &= a^2 - 2ab + b^2
 \end{align*}
 $$
 
 $$
 \begin{align*}
 x^2 - 5x + 6 &= 0\\
-x^2 - 2 \cdot \frac{5}{2} \cdot x + 6 &= 0\\
-x^2 - 2 \cdot \frac{5}{2} \cdot x + (\frac{5}{2})^2 + 6 &= 0\\
+x^2 - 2 \cdot \dfrac{5}{2} \cdot x + 6 &= 0\\
+x^2 - 2 \cdot \dfrac{5}{2} \cdot x + (\dfrac{5}{2})^2 + 6 &= (\dfrac{5}{2})^2\\
+x^2 - 5x + \dfrac{25}{4} &= \dfrac{25}{4} - 6\\
+(x - \dfrac{5}{2})^2 &= \dfrac{1}{4}\\
+\sqrt{(x - \dfrac{5}{2})^2} &= \pm \sqrt{\dfrac{1}{4}}\\
+x - \dfrac{5}{2} &= \pm \dfrac{1}{2}}
 \end{align*}
 $$
 
