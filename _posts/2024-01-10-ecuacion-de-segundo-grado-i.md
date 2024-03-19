@@ -200,7 +200,7 @@ Por lo tanto, las soluciones o raíces para la ecuación son **0** y **3**.
 
 ### Resolución de ecuaciones completas
 
-Para este tipo de ecuaciones podemos **factorizar**, **completar cuadrados** o utilizar la **fórmula general** de resolución. Esta última la veremos más adelante en detalle.
+Para este tipo de ecuaciones podemos **factorizar**, **completar cuadrados** o bien, utilizar la **fórmula general** de resolución. Esta última la veremos más adelante en detalle.
 
 Ejemplo:
 
