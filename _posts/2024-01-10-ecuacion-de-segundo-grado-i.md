@@ -265,6 +265,7 @@ $$
 x^2 - 5x + 6 &= 0\\
 x^2 - 2 \cdot \frac{5}{2} \cdot x + 6 &= 0\\
 x^2 - 2 \cdot \frac{5}{2} \cdot x + \left( (\frac{5}{2})^2 \right) + 6 &= \left( (\frac{5}{2})^2 \right)\\
+\end{align*}
 $$
 
 ## Ejercicios aplicados
