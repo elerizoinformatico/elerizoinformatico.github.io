@@ -200,7 +200,7 @@ Por lo tanto, las soluciones o raíces para la ecuación son **0** y **3**.
 
 ### Resolución de ecuaciones completas
 
-Para este tipo de ecuaciones podemos **factorizar**, **completar cuadrados** o bien, utilizar la **fórmula general** de resolución. Esta última la veremos más adelante en detalle.
+Para este tipo de ecuaciones podemos **factorizar** o bien, utilizar la **fórmula general** de resolución. Esta última la veremos más adelante en detalle.
 
 Ejemplo:
 
@@ -251,22 +251,6 @@ x &= 3
 $$
 
 Finalmente, las raíces de la ecuación son **2** y **3**.
-
-Para resolver este mismo ejercicio mediante la completación de cuadrados, debemos recordar el producto notable **cuadrado de binomio**:
-
-$$
-\begin{align*}
-(a - b)^2 &= a^2 - 2ab + b^2
-\end{align*}
-$$
-
-$$
-\begin{align*}
-x^2 - 5x + 6 &= 0\\
-x^2 - 2 \cdot \frac{5}{2} \cdot x + 6 &= 0\\
-x^2 - 2 \cdot \frac{5}{2} \cdot x + \left( \frac{5}{2} \right)^2 + 6 &= \left( \frac{5}{2} \right)^2
-\end{align*}
-$$
 
 ## Ejercicios aplicados
 
