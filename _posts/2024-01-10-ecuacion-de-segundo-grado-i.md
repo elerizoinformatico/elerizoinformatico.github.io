@@ -263,12 +263,12 @@ $$
 $$
 \begin{align*}
 x^2 - 5x + 6 &= 0\\
-x^2 - 2 \cdot \dfrac{5}{2} \cdot x + 6 &= 0\\
-x^2 - 2 \cdot \dfrac{5}{2} \cdot x + (\dfrac{5}{2})^2 + 6 &= (\dfrac{5}{2})^2\\
-x^2 - 5x + \dfrac{25}{4} &= \dfrac{25}{4} - 6\\
-(x - \dfrac{5}{2})^2 &= \dfrac{1}{4}\\
-\sqrt{(x - \dfrac{5}{2})^2} &= \pm \sqrt{\dfrac{1}{4}}\\
-x - \dfrac{5}{2} &= \pm \dfrac{1}{2}}
+x^2 - 2 \cdot \frac{5}{2} \cdot x + 6 &= 0\\
+x^2 - 2 \cdot \frac{5}{2} \cdot x + \left( (\frac{5}{2})^2 \right) + 6 &= \left( (\frac{5}{2})^2 \right)\\
+x^2 - 5x + \frac{25}{4} &= \frac{25}{4} - 6\\
+(x - \frac{5}{2})^2 &= \frac{1}{4}\\
+\sqrt{(x - \frac{5}{2})^2} &= \pm \sqrt{\frac{1}{4}}\\
+x - \frac{5}{2} &= \pm \frac{1}{2}}
 \end{align*}
 $$
 
