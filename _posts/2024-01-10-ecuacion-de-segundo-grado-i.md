@@ -271,3 +271,13 @@ Finalmente, las raíces de la ecuación son **2** y **3**.
 15. \\( x^2 - (x + 1)^2 = 2 - x^2 \\)
 
 Si tienes alguna duda con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
+
+---
+
+<script src="https://utteranc.es/client.js"
+        repo="elerizoinformatico/elerizoinformatico.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
