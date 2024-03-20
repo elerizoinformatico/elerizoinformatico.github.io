@@ -198,7 +198,7 @@ x &= 3
 \end{align*}
 $$
 
-Por lo tanto, las soluciones o raíces para la ecuación son **0** y **3**.
+Por lo tanto, las soluciones o raíces de la ecuación son **0** y **3**.
 
 ### Resolución de ecuaciones completas
 
