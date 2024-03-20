@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ecuación de segundo grado I"
+title:  "Ecuaciones de Segundo Grado I"
 date:   2024-01-10
-excerpt: "Primera parte del curso de la ecuación de segundo grado en donde verás su dfinición, clasificación y métodos de resolución."
+excerpt: "Primera parte del curso de Ecuaciones de Segundo Grado en donde verás su dfinición, clasificación y métodos de resolución."
 tag:
 - Articulo
 - Matematicas
