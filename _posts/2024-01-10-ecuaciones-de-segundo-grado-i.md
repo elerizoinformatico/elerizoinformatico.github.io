@@ -12,6 +12,18 @@ comments: false
 
 En esta primera parte del curso de la ecuación de segundo grado verás su definición, clasificación y métodos de resolución.
 
+## Previo
+
+Los primeros registros de soluciones a ecuaciones de segundo grado se encuentran en **Babilonia**, en textos que datan del 2000 a.C. aproximadamente. Los matemáticos babilónicos tenían métodos para resolver ciertos tipos de ecuaciones cuadráticas simples, como encontrar longitudes de lados en problemas geométricos.
+
+En la antigua **Grecia**, matemáticos como **Euclides** y **Arquímedes** estudiaron ecuaciones cuadráticas y sus propiedades geométricas. Euclides en su obra *"Los Elementos"*, dio una demostración geométrica de cómo encontrar la solución de una ecuación en el caso particular que tenga una raíz positiva.
+
+Durante la **Edad Media**, matemáticos islámicos como **Al-Khwarizmi** contribuyeron significativamente al estudio de las ecuaciones cuadráticas. Al-Khwarizmi escribió un tratado llamado *"Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala"* (El libro compendioso sobre cálculo por finalización y equilibrio), que introdujo métodos sistemáticos para resolver este tipo de ecuaciones. Este tratado fue traducido al latín en el siglo XII y tuvo una gran influencia en la matemática europea medieval.
+
+Durante el **Renacimiento**, matemáticos como **Cardano** y **Tartaglia** desarrollaron métodos algebraicos para resolver ecuaciones cuadráticas generales, incluyendo aquellas que poseen soluciones imaginarias. Cardano fue el primero en publicar una solución general en su obra *"Ars Magna"* en 1545.
+
+Desde entonces, el estudio de las ecuaciones cuadráticas ha seguido evolucionando, con contribuciones significativas de matemáticos como **Descartes**, **Euler**, **Gauss** y muchos otros. Hoy en día, las ecuaciones de segundo grado son una parte fundamental en la educación matemática y sus aplicaciones son diversas (desde la física hasta la ingeniería y la economía).
+
 ## Definición y forma estándar
 
 Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, \\( x^2 \\)).
