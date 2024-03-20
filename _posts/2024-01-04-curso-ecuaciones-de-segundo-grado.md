@@ -11,7 +11,7 @@ tag:
 comments: false
 ---
 
-Hola
+## Índice
 
 1. [Definición, clasificación y métodos de resolución](https://elerizoinformatico.github.io/ecuaciones-de-segundo-grado-i/)
 2. Proximamente...
