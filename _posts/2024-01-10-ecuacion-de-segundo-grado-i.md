@@ -2,7 +2,7 @@
 layout: post
 title:  "Ecuación de segundo grado I"
 date:   2024-01-10
-excerpt: "Primera parte del curso de la ecuación de segundo grado en donde verás su dfinición, clasificación y métodos de resolución"
+excerpt: "Primera parte del curso de la ecuación de segundo grado en donde verás su dfinición, clasificación y métodos de resolución."
 tag:
 - Articulo
 - Matematicas
@@ -10,11 +10,13 @@ tag:
 comments: false
 ---
 
+En esta primera parte del curso de la ecuación de segundo grado verás su definición, clasificación y métodos de resolución.
+
+## Definición y forma estándar
+
 Una ecuación es de **segundo grado** o **cuadrática** si el exponente de la incógnita es 2 (en otras palabras, \\( x^2 \\)).
 
-## Forma estándar
-
-La forma estándar de una ecuación cuadrática es la siguiente:
+La forma estándar de estas ecuaciones es la siguiente:
 
 $$
 \begin{align*}
