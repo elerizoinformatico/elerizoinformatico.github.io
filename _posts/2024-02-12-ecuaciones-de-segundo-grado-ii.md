@@ -162,4 +162,58 @@ x_2 &= - \frac{5}{18}
 \end{align*}
 $$
 
+#### 3. \\((5x - 4)^2 - (3x + 5)(2x - 1) = 20x(x - 2) + 27\\)
+
+Al igual que con el ejemplo anterior, la ecuación no se encuentra en su forma estándar y por lo mismo debemos ordenarla:
+
+$$
+\begin{align*}
+(5x - 4)^2 - (3x + 5)(2x - 1) &= 20x(x - 2) + 27\\
+(25x^2 - 40x + 16) - (6x^2 - 3x + 10x - 5) &= 20x^2 - 40x + 27\\
+25x^2 - 40x + 16 - 6x^2 + 3x - 10x + 5 &= 20x^2 - 40x + 27\\
+x^2 + 7x + 6 &= 0
+\end{align*}
+$$
+
+Luego, reemplazamos los valores en la fórmula general:
+
+$$
+\begin{align*}
+x &= \frac{-(7) \pm \sqrt{(7)^2 - 4\cdot(1)\cdot(6)}}{2\cdot(1)}\\
+x &= \frac{-7 \pm \sqrt{49 - 24}}{2}\\
+x &= \frac{-7 \pm \sqrt{25}}{2}\\
+x &= \frac{-7 \pm 5}{2}
+\end{align*}
+$$
+
+Por último, obtenemos sus raíces:
+
+$$
+\begin{align*}
+x_1 &= \frac{-7 + 5}{2}\\
+x_1 &= \frac{-2}{2}\\
+x_1 &= -1
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x_2 &= \frac{-7 - 5}{2}\\
+x_2 &= \frac{-12}{2}\\
+x_2 &= -6
+\end{align*}
+$$
+
+## Discriminante y tipos de soluciones
+
+El **discriminante** (\\(\Delta\\)) corresponde al valor que se encuentra dentro de la raíz en la fórmula general de la ecuación cuadrática, es decir:
+
+$$
+\begin{align*}
+\Delta &= b^2 - 4ac
+\end{align*}
+$$
+
+A partir de este dato podemos conocer el tipo o naturaleza de sus raíces:
+
 Hola amigos.
