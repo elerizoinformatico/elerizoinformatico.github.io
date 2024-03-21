@@ -349,7 +349,7 @@ $$
 $$
 \begin{align*}
 x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{2} \cdot \sqrt{3}) &= 0\\
-x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{6}) &= 0
+x^2 - (\sqrt{2} + \sqrt{3})x + \sqrt{6} &= 0
 \end{align*}
 $$
 
