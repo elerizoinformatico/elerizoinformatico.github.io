@@ -214,6 +214,90 @@ $$
 \end{align*}
 $$
 
-A partir de este dato podemos conocer el tipo o naturaleza de sus raíces:
+A partir de este dato podemos conocer el tipo o **naturaleza** de sus raíces:
+
+* Si \\(\Delta > 0\\), la ecuación tendrá dos soluciones **reales y distintas**, es decir, \\(x_1 \neq x_2\\).
+* Si \\(\Delta = 0\\), la ecuación tendrá dos soluciones **reales e iguales**, es decir, \\(x_1 = x_2\\).
+* Si \\(\Delta < 0\\), la ecuación **no tendrá solución en los reales**, es decir, \\(x_1\\) y \\(x_2\\) serán dos números **complejos conjugados**.
+
+### Ejemplos
+
+#### 1. \\(3x^2 - 5x + 1 = 0\\)
+
+$$
+\begin{align*}
+\Delta &= (-5)^2 - 4\cdot(3)\cdot(1)\\
+\Delta &= 25 - 12\\
+\Delta &= 13
+\end{align*}
+$$
+
+Ya que \\(\Delta = 13 > 0\\), podemos decir entonces que la ecuación tiene dos soluciones reales y distintas, las cuales estarán dadas por la fórmula general:
+
+$$
+\begin{align*}
+x &= \frac{-b \pm \sqrt{\Delta}}{2a}
+\end{align*}
+$$
+
+Es decir, los valores para \\(x_1\\) y \\(x_2\\) son:
+
+$$
+\begin{align*}
+x_1 &= \frac{5 + \sqrt{13}}{6}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x_2 &= \frac{5 - \sqrt{13}}{6}
+\end{align*}
+$$
+
+#### 2. \\(x^2 - 4x + 4 = 0\\)
+
+$$
+\begin{align*}
+\Delta &= (-4)^2 - 4\cdot(1)\cdot(4)\\
+\Delta &= 16 - 16\\
+\Delta &= 0
+\end{align*}
+$$
+
+Como \\(\Delta = 0\\), la ecuación tendrá dos soluciones reales e iguales:
+
+$$
+\begin{align*}
+x &= \frac{-b}{2a}\\
+x &= \frac{4}{2}\\
+x &= 2
+\end{align*}
+$$
+
+#### 3. \\(x^2 + x + 1 = 0\\)
+
+$$
+\begin{align*}
+\Delta &= (1)^2 - 4\cdot(1)\cdot(1)\\
+\Delta &= 1 - 4\\
+\Delta &= -3
+\end{align*}
+$$
+
+En este caso,  \\(\Delta = -3 < 0\\) por lo que las soluciones de esta ecuación no están en los reales, es decir, serán dos números complejos conjugados:
+
+$$
+\begin{align*}
+x_1 &= \frac{-1 + \sqrt{-3}}{2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x_2 &= \frac{-1 - \sqrt{-3}}{2}
+\end{align*}
+$$
+
+## Ecuaciones cuadráticas a partir de sus soluciones
 
 Hola amigos.
