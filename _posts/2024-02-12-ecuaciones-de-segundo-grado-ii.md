@@ -337,8 +337,8 @@ $$
 
 $$
 \begin{align*}
-x^2 - \left((-1 + \frac{1}{2})\right)x + \left((-1 \cdot \frac{1}{2})\right) &= 0\\
-x^2 - \left((-\frac{1}{2})\right)x + \left((-\frac{1}{2})\right) &= 0\\
+x^2 - \left(-1 + \frac{1}{2}\right)x + \left(-1 \cdot \frac{1}{2}\right) &= 0\\
+x^2 - \left(-\frac{1}{2}\right)x + \left(-\frac{1}{2}\right) &= 0\\
 x^2 + \frac{1}{2}x - \frac{1}{2} &= 0\\
 2x^2 + x - 1 &= 0
 \end{align*}
