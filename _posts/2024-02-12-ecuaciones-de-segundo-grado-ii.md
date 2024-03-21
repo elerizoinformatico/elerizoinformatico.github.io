@@ -333,7 +333,7 @@ x^2 - 7x + 10 &= 0
 \end{align*}
 $$
 
-#### 2. \\(x_1 = -1\\) y \\[x_2 = \frac{1}{2}\\]
+#### 2. \\(x_1 = -1\\) y \\(x_2 = 1/2\\)
 
 $$
 \begin{align*}
@@ -367,14 +367,14 @@ $$
 10. \\(1 - 3x(1 - x) = 0\\)
 11. \\(x(x - 5) = 6\\)
 12. \\(5x^2 + 3 = x^2 - 7x\\)
-13. Para la ecuación \\(x^2 - 3x + k - 1 = 0\\), determina el valor de \\(k\\) tal que una de sus raíces sea igual a \\(0\\)
-14. Para la ecuación \\(x^2 - kx + 36 = 0\\), determina el valor de \\(k\\) tal que sus raíces sean iguales
-15. Hallar el valor de dos números cuya suma sea \\(5\\) y su producto \\(-84\\)
+13. Para la ecuación \\(x^2 - 3x + k - 1 = 0\\), determina el valor de \\(k\\) tal que una de sus raíces sea igual a \\(0\\).
+14. Para la ecuación \\(x^2 - kx + 36 = 0\\), determina el valor de \\(k\\) tal que sus raíces sean iguales.
+15. Hallar el valor de dos números cuya suma sea \\(5\\) y su producto \\(-84\\).
 16. Determinar la edad de Pedro sabiendo que dentro de 11 años tendrá la mitad del cuadrado de la edad que tenía hace 13 años.
-17. Los \\(3\\) lados de un triángulo rectángulo son proporcionales a los números \\(3\\), \\(4\\) y \\(5\\). Calcula la longitud de cada lado sabiendo que tiene un área de \\(24m^2\\)
-18. Un jardín rectangular de \\(50m\\) de largo por \\(34m\\) de ancho está rodeado por un camino de arena de ancho uniforme. Calcular la anchura de dicho camino si se sabe que tiene un área de \\(540m^2\\)
-19. Calcular las dimensiones de un rectángulo cuya diagonal mide \\(75m\\) sabiendo que es semejante a otro rectángulo de \\(36m\\) por \\(48m\\)
-20. Calcular dos números naturales cuya diferencia sea \\(2\\) y la suma de sus cuadrados \\(580\\)
+17. Los \\(3\\) lados de un triángulo rectángulo son proporcionales a los números \\(3\\), \\(4\\) y \\(5\\). Calcula la longitud de cada lado sabiendo que tiene un área de \\(24m^2\\).
+18. Un jardín rectangular de \\(50m\\) de largo por \\(34m\\) de ancho está rodeado por un camino de arena de ancho uniforme. Calcula la anchura de dicho camino si se sabe que tiene un área de \\(540m^2\\).
+19. Calcula las dimensiones de un rectángulo cuya diagonal mide \\(75m\\) sabiendo que es semejante a otro rectángulo de \\(36m\\) por \\(48m\\).
+20. Calcula dos números naturales cuya diferencia sea \\(2\\) y la suma de sus cuadrados \\(580\\).
 
 Si tienes alguna duda con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
 
