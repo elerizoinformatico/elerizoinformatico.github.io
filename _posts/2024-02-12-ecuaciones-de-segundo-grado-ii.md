@@ -300,4 +300,61 @@ $$
 
 ## Ecuaciones cuadráticas a partir de sus soluciones
 
+Si conocemos las raíces de una ecuación de segundo grado, podemos escribirla en su forma estándar como:
+
+$$
+\begin{align*}
+x^2 - (x_1 + x_2)x + (x_1 \cdot x_2) &= 0
+\end{align*}
+$$
+
+En donde sabemos que:
+
+$$
+\begin{align*}
+x_1 + x_2 &= - \frac{b}{a}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x_1 \cdot x_2 &= \frac{c}{a}
+\end{align*}
+$$
+
+### Ejemplos
+
+#### 1. \\(x_1 = 2\\) y \\(x_2 = 5\\)
+
+$$
+\begin{align*}
+x^2 - (2 + 5)x + (2 \cdot 5) &= 0\\
+x^2 - 7x + 10 &= 0
+\end{align*}
+$$
+
+#### 2. \\(x_1 = -1\\) y \\(x_2 = \frac{1}{2}\\)
+
+$$
+\begin{align*}
+x^2 - (-1 + \frac{1}{2})x + (-1 \cdot \frac{1}{2}) &= 0\\
+x^2 - (-\frac{1}{2})x + (-\frac{1}{2}) &= 0\\
+x^2 + \frac{1}{2}x - \frac{1}{2} &= 0\\
+2x^2 + x - 1 &= 0
+\end{align*}
+$$
+
+#### 3. \\(x_1 = \sqrt{2}\\) y \\(x_2 = \sqrt{3}\\)
+
+$$
+\begin{align*}
+x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{2} \cdot \sqrt{3}) &= 0\\
+x^2 - (\sqrt{2} + \sqrt{3})x + (\sqrt{6}) &= 0
+\end{align*}
+$$
+
+## Ejercicios aplicados
+
 Hola amigos.
+
+Si tienes alguna duda con los contenidos vistos en este apartado o con los ejercicios aplicados, no dudes en escribirme en la caja de comentarios.
