@@ -10,7 +10,7 @@ tag:
 comments: false
 ---
 
-En esta primera parte del curso de la ecuación de segundo grado verás su definición, clasificación y métodos de resolución.
+En esta primera parte del curso de ecuaciones de segundo grado verás su definición, clasificación y métodos de resolución.
 
 ## Previo
 
