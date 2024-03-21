@@ -15,3 +15,11 @@ En esta segunda parte del curso de ecuaciones de segundo grado (si no has visto 
 ## Fórmula general
 
 Las ecuaciones de segundo grado (cualquiera sea su tipo) podemos resolverlas mediante la fórmula general:
+
+$$
+\begin{align*}
+x &= \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\end{align*}
+$$
+
+En donde el símbolo \\(\pm\\) nos indica que tendremos dos soluciones o raíces.
