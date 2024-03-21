@@ -85,4 +85,81 @@ $$
 
 ### Ejemplos
 
+#### 1. \\(6x^2 - 5x + 1 = 0\\)
+
+Como la ecuación está en su forma estándar (\\(ax^2 + bx + c = 0\\)), debemos identificar los valores de los coeficientes **a**, **b** y **c**:
+
+\\(a = 6\\), \\(b = -5\\) y \\(c = 1\\)
+
+Luego, reemplazamos los valores en la fórmula general y resolvemos:
+
+$$
+\begin{align*}
+x &= \frac{-(-5) \pm \sqrt{(-5)^2 - 4\cdot(6)\cdot(1)}}{2\cdot(6)}\\
+x &= \frac{5 \pm \sqrt{25 - 24}}{12}\\
+x &= \frac{5 \pm \sqrt{1}}{12}\\
+x &= \frac{5 \pm 1}{12}
+\end{align*}
+$$
+
+Finalmente, las soluciones o raíces de la ecuación son:
+
+$$
+\begin{align*}
+x_1 &= \frac{5 + 1}{12}\\
+x_1 &= \frac{6}{12}\\
+x_1 &= \frac{1}{2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x_2 &= \frac{5 - 1}{12}\\
+x_2 &= \frac{4}{12}\\
+x_2 &= \frac{1}{3}
+\end{align*}
+$$
+
+#### 2. \\(8x + 5 = 36x^2\\)
+
+En este caso, debemos ordenar la ecuación antes de identificar los coeficientes ya que no está en su forma estándar:
+
+$$
+\begin{align*}
+8x + 5 &= 36x^2\\
+36x^2 - 8x - 5 &= 0
+\end{align*}
+$$
+
+**Importante:** Cuando resolvemos ecuaciones cuadráticas mediante la fórmula general, es recomendable que el valor del coeficiente **a** sea positivo para evitar errores en los cálculos.
+
+Reemplazamos los valores en la fórmula general:
+
+$$
+\begin{align*}
+x &= \frac{-(-8) \pm \sqrt{(-8)^2 - 4\cdot(36)\cdot(-5)}}{2\cdot(36)}\\
+x &= \frac{8 \pm \sqrt{64 + 720}}{72}\\
+x &= \frac{8 \pm \sqrt{784}}{72}\\
+x &= \frac{8 \pm 28}{72}
+\end{align*}
+$$
+
+Por lo tanto, las raíces de la ecuación son:
+
+$$
+\begin{align*}
+x_1 &= \frac{8 + 28}{72}\\
+x_1 &= \frac{36}{72}\\
+x_1 &= \frac{1}{2}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+x_2 &= \frac{8 - 28}{72}\\
+x_2 &= \frac{-20}{72}\\
+x_2 &= - \frac{5}{18}
+\end{align*}
+$$
+
 Hola amigos.
