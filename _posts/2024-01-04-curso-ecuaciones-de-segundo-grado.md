@@ -7,7 +7,7 @@ project: true
 tag:
 - Proyecto 
 - Matematicas
-- Blog
+- Curso
 comments: false
 ---
 
