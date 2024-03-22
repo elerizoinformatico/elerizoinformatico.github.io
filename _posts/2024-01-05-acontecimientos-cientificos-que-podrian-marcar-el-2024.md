@@ -3,7 +3,7 @@ layout: post
 title: "Acontecimientos científicos que podrían marcar el 2024"
 date: 2024-01-05
 excerpt: "El avance de la inteligencia artificial, una nueva generación de vacunas, supercomputadoras y misiones a la luna son algunas de las noticias que destacan para este año."
-tags: [Articulo, Ciencia, Blog]
+tags: [Articulo, Ciencia]
 comments: false
 ---
 
