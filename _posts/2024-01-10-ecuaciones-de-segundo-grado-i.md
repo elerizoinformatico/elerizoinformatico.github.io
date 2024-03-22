@@ -6,7 +6,6 @@ excerpt: "Primera parte del curso de Ecuaciones de Segundo Grado en donde verás
 tag:
 - Articulo
 - Matematicas
-- Blog
 comments: false
 ---
 
