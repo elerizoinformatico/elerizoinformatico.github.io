@@ -12,6 +12,9 @@ comments: false
 
 ## Índice:
 
-1. [Definición, clasificación y métodos de resolución](https://elerizoinformatico.github.io/ecuaciones-de-segundo-grado-i/)
-2. [Fórmula general, discriminante y tipos de soluciones](https://elerizoinformatico.github.io/ecuaciones-de-segundo-grado-ii/)
-3. Proximamente...
+1. Definición, clasificación y métodos de resolución
+2. Fórmula general, discriminante y tipos de soluciones
+3. Ecuaciones bicuadradas
+4. Función cuadrática
+5. Sistemas de ecuaciones
+6. Inecuaciones
