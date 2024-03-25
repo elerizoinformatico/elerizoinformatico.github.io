@@ -24,10 +24,10 @@ Curso de Ecuaciones de Segundo Grado o Cuadráticas de cero a experto.
 6. Inecuaciones
 7. Ejercicios aplicados
 
-# Duración
+## Duración
 
 El curso consta de 7 clases las cuales se pueden distribuir en base a la disponibilidad conjunta del alumno y tutor.
 
-# Valor
+## Valor
 
 $80.000 CLP (82 USD aprox)
