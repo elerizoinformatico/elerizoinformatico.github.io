@@ -10,7 +10,11 @@ tag:
 comments: false
 ---
 
-## Índice:
+## Información
+
+Curso de Ecuaciones de Segundo Grado o Cuadráticas de cero a experto.
+
+## Temario
 
 1. Definición, clasificación y métodos de resolución
 2. Fórmula general, discriminante y tipos de soluciones
@@ -19,3 +23,11 @@ comments: false
 5. Sistemas de ecuaciones
 6. Inecuaciones
 7. Ejercicios aplicados
+
+# Duración
+
+El curso consta de 7 clases las cuales se pueden distribuir en base a la disponibilidad conjunta del alumno y tutor.
+
+# Valor
+
+$80.000 CLP (82 USD aprox)
