@@ -14,6 +14,10 @@ comments: false
 
 Curso de Ecuaciones de Segundo Grado o Cuadráticas de cero a experto.
 
+Incluye:
+* Material de clase (formato PDF).
+* Acceso a 7 sesiones online, las cuales se pueden agendar en base a la disponibilidad del alumno y tutor.
+
 ## Temario
 
 1. Definición, clasificación y métodos de resolución
@@ -23,10 +27,6 @@ Curso de Ecuaciones de Segundo Grado o Cuadráticas de cero a experto.
 5. Sistemas de ecuaciones
 6. Inecuaciones
 7. Ejercicios aplicados
-
-## Duración
-
-El curso consta de 7 clases las cuales se pueden distribuir en base a la disponibilidad conjunta del alumno y tutor.
 
 ## Valor
 
