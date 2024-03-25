@@ -18,3 +18,4 @@ comments: false
 4. Función cuadrática
 5. Sistemas de ecuaciones
 6. Inecuaciones
+7. Ejercicios aplicados
