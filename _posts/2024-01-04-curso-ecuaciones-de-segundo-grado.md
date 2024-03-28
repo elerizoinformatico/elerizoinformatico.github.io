@@ -26,7 +26,8 @@ Incluye:
 4. Función cuadrática
 5. Sistemas de ecuaciones
 6. Inecuaciones
-7. Ejercicios aplicados
+7. Método de Po-Shen Loh y ejercicios aplicados
+8. Más ejercicios aplicados
 
 ## Valor
 
