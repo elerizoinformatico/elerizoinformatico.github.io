@@ -11,14 +11,13 @@ url: "http://elerizoinformatico.github.io"
 baseurl: "/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "En este blog encontrarás temas relacionados a las matemáticas e informática en general, aunque también podrías toparte con otras cosas interesantes"
+author-bio: "Soy el perro de la imagen. Es broma, en este blog encontrarás temas relacionados a las matemáticas e informática en general, aunque también podrías toparte con otras cosas interesantes"
 
 # Social Accounts (mine, as placeholders)
 
-twitter: mx3m
-github: m3xm
-dribbble: m3xm
-instagram: m3xm
+github: elerizoinformatico
+facebook: elerizoinformatico
+instagram: elerizoinformatico
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
