@@ -7,7 +7,7 @@ layout: default
     <div class="feat">
       <h5 class="page-date">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | "%d-%m-%Y" }}
+          {{ page.date | date: "%d-%m-%Y" }}
         </time>
       </h5>
     </div>
