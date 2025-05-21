@@ -20,7 +20,7 @@ Explora, comenta, y si alguna entrada despierta tu curiosidad, ¡no dudes en sum
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
-        data-theme="dark"
+        data-theme="light_high_contrast"
         data-lang="es"
         crossorigin="anonymous"
         async>
