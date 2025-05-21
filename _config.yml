@@ -11,7 +11,7 @@ url: "http://elerizoinformatico.github.io"
 baseurl: "/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "Soy el perro de la imagen. Es broma, en este blog encontrarás temas relacionados a la matemática, ciencia e informática en general, aunque también podrías toparte con otras cosas interesantes."
+author-bio: "Soy el erizo de la imagen. Es broma, en este blog encontrarás temas relacionados a la matemática, ciencia e informática en general, aunque también podrías toparte con otras cosas interesantes."
 
 # Social Accounts (mine, as placeholders)
 
@@ -31,7 +31,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
 
-paginate: 15
+paginate: 20
 paginate_path: "/page/:num"
 
 # SCSS
