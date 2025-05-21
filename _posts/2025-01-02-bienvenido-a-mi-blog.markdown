@@ -10,11 +10,18 @@ Aquí encontrarás desde explicaciones claras de conceptos fundamentales hasta a
 
 Explora, comenta, y si alguna entrada despierta tu curiosidad, ¡no dudes en sumarte a la conversación!
 
-<script src="https://utteranc.es/client.js"
-        repo="elerizoinformatico/elerizoinformatico.github.io"
-        issue-term="pathname"
-        label="feedback"
-        theme="dark-blue"
+<script src="https://giscus.app/client.js"
+        data-repo="elerizoinformatico/elerizoinformatico.github.io"
+        data-repo-id="R_kgDONQWa5A"
+        data-category="Ideas"
+        data-category-id="DIC_kwDONQWa5M4CqaFl"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="es"
         crossorigin="anonymous"
         async>
 </script>
