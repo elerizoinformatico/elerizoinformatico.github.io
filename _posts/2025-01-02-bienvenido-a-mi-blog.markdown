@@ -13,6 +13,7 @@ Explora, comenta, y si alguna entrada despierta tu curiosidad, ¡no dudes en sum
 <script src="https://utteranc.es/client.js"
         repo="elerizoinformatico/elerizoinformatico.github.io"
         issue-term="pathname"
+        label="feedback"
         theme="dark-blue"
         crossorigin="anonymous"
         async>
