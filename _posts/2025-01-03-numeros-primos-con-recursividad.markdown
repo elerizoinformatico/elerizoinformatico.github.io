@@ -29,7 +29,7 @@ except ValueError:
     print("Por favor, ingresa un número entero válido.")
 {% endhighlight %}
 
-## ¿Cómo funciona?
+### ¿Cómo funciona?
 
 * La función `es_primo` usa un segundo parámetro `divisor` que comienza en 2.
 * Si el número es menor que 2 no es primo.
@@ -37,13 +37,13 @@ except ValueError:
 * Si el número es divisible por `divisor`, no es primo.
 * Si no, la función se llama a sí misma con `divisor + 1`.
 
-Se ve interesante el código aunque analizaremos su complejidad (orden de crecimiento):
+Se ve interesante el código aunque analizaremos su orden de crecimiento (complejidad temporal):
 
-La función `es_primo` prueba todos los divisores desde 2 hasta $\sqrt{num}$, haciendo una llamada recursiva por cada intento. En el peor caso, se ejecuta hasta que `divisor * divisor > num`, es decir, prueba divisores hasta $divisor = \sqrt{num}$. Entonces, la complejidad es:
+La función `es_primo` prueba todos los divisores desde 2 hasta $`\sqrt{num}`$, haciendo una llamada recursiva por cada intento. En el peor caso, se ejecuta hasta que `divisor * divisor > num`, es decir, prueba divisores hasta $`divisor = \sqrt{num}`$. Entonces, la complejidad es:
 
 $$ Complejidad = O(\sqrt{n}) $$
 
-## ¿Se puede mejorar?
+### ¿Se puede mejorar?
 
 Claro que si, podríamos considerar:
 
