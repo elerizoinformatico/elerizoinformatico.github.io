@@ -39,7 +39,7 @@ except ValueError:
 
 Se ve interesante el código aunque analizaremos su orden de crecimiento (complejidad temporal):
 
-La función `es_primo` prueba todos los divisores desde 2 hasta $`\sqrt{num}`$, haciendo una llamada recursiva por cada intento. En el peor caso, se ejecuta hasta que `divisor * divisor > num`, es decir, prueba divisores hasta $`divisor = \sqrt{num}`$. Entonces, la complejidad es:
+La función `es_primo` prueba todos los divisores desde 2 hasta $$\sqrt{num}$$, haciendo una llamada recursiva por cada intento. En el peor caso, se ejecuta hasta que `divisor * divisor > num`, es decir, prueba divisores hasta $$divisor = \sqrt{num}$$. Entonces, la complejidad es:
 
 $$ Complejidad = O(\sqrt{n}) $$
 
