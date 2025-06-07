@@ -37,7 +37,7 @@ except ValueError:
 * Si el número es divisible por `divisor`, no es primo.
 * Si no, la función se llama a sí misma con `divisor + 1`.
 
-Se ve interesante el código aunque analizaremos su orden de crecimiento (complejidad temporal):
+Interesante código... aunque analizaremos su orden de crecimiento (complejidad temporal):
 
 La función `es_primo` prueba todos los divisores desde 2 hasta $$\sqrt{num}$$, haciendo una llamada recursiva por cada intento. En el peor caso, se ejecuta hasta que `divisor * divisor > num`, es decir, prueba divisores hasta $$divisor = \sqrt{num}$$. Entonces, la complejidad es:
 
