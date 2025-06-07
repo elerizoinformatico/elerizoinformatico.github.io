@@ -50,7 +50,7 @@ Claro que si, podríamos considerar:
 * Probar solo divisores impares después del 2.
 * Usar pruebas de primalidad más avanzadas (como Miller-Rabin) si se requiere eficiencia en números grandes.
 
-¿Tienes alguna otra idea para mejorar la eficiencia? ¡Déjalo en los comentarios!
+¿Tienes alguna otra idea para mejorar su eficiencia? ¡Déjalo en los comentarios!
 
 <script src="https://giscus.app/client.js"
         data-repo="elerizoinformatico/elerizoinformatico.github.io"
