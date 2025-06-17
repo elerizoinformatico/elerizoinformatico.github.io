@@ -6,6 +6,8 @@ date:   2025-06-13 16:47:51
 
 Apple ha revelado oficialmente iOS 26 durante la WWDC 2025 y los cambios no serían menores. Aquí te dejo sus principales novedades:
 
+<img src="{{ site.baseurl }}/assets/img/icono-ios26.jpg">
+
 ### **Liquid Glass: la revolución visual**
 
 * Un nuevo lenguaje de diseño inspirado en **visionOS**, con interfaces translúcidas, redondeadas y reactivas al movimiento, efectos de refracción y una estética *"de cristal"* en toda la interfaz: pantalla de bloqueo, apps, iconos y widgets.
