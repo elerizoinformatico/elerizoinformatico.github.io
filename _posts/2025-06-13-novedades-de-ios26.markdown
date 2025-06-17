@@ -4,7 +4,7 @@ title:  "Las novedades que traería el nuevo iOS 26"
 date:   2025-06-13 16:47:51
 ---
 
-Apple ha revelado oficialmente iOS 26 durante la WWDC 2025 y los cambios no son menores. Aquí te dejo sus principales novedades:
+Apple ha revelado oficialmente iOS 26 durante la WWDC 2025 y los cambios no serían menores. Aquí te dejo sus principales novedades:
 
 ### **Liquid Glass: la revolución visual**
 
