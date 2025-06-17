@@ -47,3 +47,19 @@ Apple ha revelado oficialmente iOS 26 durante la WWDC 2025 y los cambios no son 
 * **Beta de desarrolladores** disponible desde el 10 de junio, beta pública en julio, y lanzamiento oficial en septiembre de 2025.
 
 Sin duda y, a gusto personal, las principales "novedades" se centran en su **rediseño visual** ya que los otros puntos parecen ser más de lo mismo. ¿Qué opinas tú? ¡Te leo en los comentarios!
+
+<script src="https://giscus.app/client.js"
+        data-repo="elerizoinformatico/elerizoinformatico.github.io"
+        data-repo-id="R_kgDONQWa5A"
+        data-category="Ideas"
+        data-category-id="DIC_kwDONQWa5M4CqaFl"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light_high_contrast"
+        data-lang="es"
+        crossorigin="anonymous"
+        async>
+</script>
