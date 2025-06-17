@@ -46,7 +46,7 @@ Apple ha revelado oficialmente iOS 26 durante la WWDC 2025 y los cambios no ser�
 * Compatible con iPhone **11** en adelante, incluyendo todas las gamas del iPhone 12 al 16.
 * **Beta de desarrolladores** disponible desde el 10 de junio, beta pública en julio, y lanzamiento oficial en septiembre de 2025.
 
-Sin duda y, a gusto personal, las principales "novedades" se centran en su **rediseño visual** ya que los otros puntos parecen ser más de lo mismo. ¿Qué opinas tú? ¡Te leo en los comentarios!
+Sin duda, y a gusto muy personal, las principales **"novedades"** que trae esta actualización se centran en su **rediseño visual** ya que los otros puntos parecen ser más de lo mismo. ¿Qué opinas tú? ¡Te leo en los comentarios!
 
 <script src="https://giscus.app/client.js"
         data-repo="elerizoinformatico/elerizoinformatico.github.io"
