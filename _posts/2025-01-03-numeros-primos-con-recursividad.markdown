@@ -29,7 +29,7 @@ except ValueError:
     print("Por favor, ingresa un número entero válido.")
 {% endhighlight %}
 
-### ¿Cómo funciona?
+### **¿Cómo funciona?**
 
 * La función `es_primo` usa un segundo parámetro `divisor` que comienza en 2.
 * Si el número es menor que 2 no es primo.
@@ -47,7 +47,7 @@ Complejidad = O(\sqrt{n})
 \end{align*}
 $$
 
-### ¿Se puede mejorar?
+### **¿Se puede mejorar?**
 
 Claro que si, podríamos considerar:
 
