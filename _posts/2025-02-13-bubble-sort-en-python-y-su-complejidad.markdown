@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Setting up Jekyll on Github Pages (is easier than you think)"
-date:   2014-01-08 16:57:51
+title:  "Bubble Sort en Python y su complejidad"
+date:   2025-02-13 19:39:43
 ---
+
+## Hola
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
