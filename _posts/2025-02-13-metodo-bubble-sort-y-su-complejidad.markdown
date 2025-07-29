@@ -64,13 +64,10 @@ Para los tamaños ingresados se ejecutó el algoritmo 3 veces ya que el arreglo 
 
 | N° de elementos | Tiempo 1 | Tiempo 2 | Tiempo 3 | Promedio |
 |:---------------:|:--------:|:--------:|:--------:|:--------:|
-| 1000            | 0.039926 | 0.028880 | 0.025517 | 0.031441 |
-| 2000            | 0.115584 | 0.119061 | 0.124567 | 0.119737 |
-| 3000            | 0.275539 | 0.272289 | 0.269378 | 0.272402 |
 | 4000            | 0.496379 | 0.504710 | 0.491834 | 0.497641 |
 | 5000            | 0.781531 | 0.781016 | 0.800987 | 0.787845 |
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; text-align=center">
   <thead>
     <tr>
       <th style="border: 1px solid #ccc; background-color: #f2f2f2;">N° de elementos</th>
@@ -94,6 +91,13 @@ Para los tamaños ingresados se ejecutó el algoritmo 3 veces ya que el arreglo 
       <td style="border: 1px solid #ccc;">0.119061</td>
       <td style="border: 1px solid #ccc;">0.124567</td>
       <td style="border: 1px solid #ccc;">0.119737</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc;">3000</td>
+      <td style="border: 1px solid #ccc;">0.275539</td>
+      <td style="border: 1px solid #ccc;">0.272289</td>
+      <td style="border: 1px solid #ccc;">0.269378</td>
+      <td style="border: 1px solid #ccc;">0.272402</td>
     </tr>
   </tbody>
 </table>
