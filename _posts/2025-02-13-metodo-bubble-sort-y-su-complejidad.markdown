@@ -62,11 +62,6 @@ except ValueError as e:
 
 Para los tamaños ingresados se ejecutó el algoritmo 3 veces ya que el arreglo generado es aleatorio y por lo mismo, los tiempos de ejecución pueden variar. Los resultados (en segundos) se presentan a continuación:
 
-| N° de elementos | Tiempo 1 | Tiempo 2 | Tiempo 3 | Promedio |
-|:---------------:|:--------:|:--------:|:--------:|:--------:|
-| 4000            | 0.496379 | 0.504710 | 0.491834 | 0.497641 |
-| 5000            | 0.781531 | 0.781016 | 0.800987 | 0.787845 |
-
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
@@ -98,6 +93,20 @@ Para los tamaños ingresados se ejecutó el algoritmo 3 veces ya que el arreglo 
       <td style="border: 1px solid black; text-align: center;">0.272289</td>
       <td style="border: 1px solid black; text-align: center;">0.269378</td>
       <td style="border: 1px solid black; text-align: center;">0.272402</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; text-align: center;">4000</td>
+      <td style="border: 1px solid black; text-align: center;">0.496379</td>
+      <td style="border: 1px solid black; text-align: center;">0.504710</td>
+      <td style="border: 1px solid black; text-align: center;">0.491834</td>
+      <td style="border: 1px solid black; text-align: center;">0.497641</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; text-align: center;">5000</td>
+      <td style="border: 1px solid black; text-align: center;">0.781531</td>
+      <td style="border: 1px solid black; text-align: center;">0.781016</td>
+      <td style="border: 1px solid black; text-align: center;">0.800987</td>
+      <td style="border: 1px solid black; text-align: center;">0.787845</td>
     </tr>
   </tbody>
 </table>
