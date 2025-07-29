@@ -70,6 +70,34 @@ Para los tamaños ingresados se ejecutó el algoritmo 3 veces ya que el arreglo 
 | 4000            | 0.496379 | 0.504710 | 0.491834 | 0.497641 |
 | 5000            | 0.781531 | 0.781016 | 0.800987 | 0.787845 |
 
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ccc; background-color: #f2f2f2;">N° de elementos</th>
+      <th style="border: 1px solid #ccc;">Tiempo 1</th>
+      <th style="border: 1px solid #ccc;">Tiempo 2</th>
+      <th style="border: 1px solid #ccc;">Tiempo 3</th>
+      <th style="border: 1px solid #ccc;">Promedio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc;">1000</td>
+      <td style="border: 1px solid #ccc;">0.039926</td>
+      <td style="border: 1px solid #ccc;">0.028880</td>
+      <td style="border: 1px solid #ccc;">0.025517</td>
+      <td style="border: 1px solid #ccc;">0.031441</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc;">2000</td>
+      <td style="border: 1px solid #ccc;">0.115584</td>
+      <td style="border: 1px solid #ccc;">0.119061</td>
+      <td style="border: 1px solid #ccc;">0.124567</td>
+      <td style="border: 1px solid #ccc;">0.119737</td>
+    </tr>
+  </tbody>
+</table>
+
 Si realizamos una gráfica, obtenemos una curva similar a la función cuadrática o parábola:
 
 <img src="{{ site.baseurl }}/assets/img/grafica1.png">
