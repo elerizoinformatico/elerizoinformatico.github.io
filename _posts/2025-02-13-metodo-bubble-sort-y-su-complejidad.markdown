@@ -117,7 +117,19 @@ Si realizamos una gráfica, obtenemos una curva similar a la función cuadrátic
 
 ### **Complejidad**
 
-PDTE
+La eficiencia de un algoritmo  se medi por su **complejidad de tiempo** (cuánto tiempo toma) y su **complejidad de espacio** (cuánta memoria necesita). Para el Bubble Sort, la complejidad de tiempo es su principal desventaja:
+
+#### Complejidad de Tiempo
+
+* Peor caso ($$O(n^{2})$$): Ocurre cuando la lista está en orden inverso. El algoritmo debe recorrer toda la lista $$n$$ veces y en casa pasada realiza hasta $$n$$ comparaciones. Esto genera un número de operaciones proporcional a $$n x n$$, es decir, crecimiento cuadrático.
+* Caso promedio ($$O(n^{2})$$): Incluso con un orden aleatorio, el algoritmo sigue siendo ineficiente ya que el número de comparaciones e intercambios sigue siendo cuadrático en función del tamaño de la lista.
+* Mejor caso ($$O(n)$$): Sucede cuando la lista ya está ordenada. En este escenario, el algoritmo recorre la lista una sola vez y, al no detectar ningún intercambio, finaliza anticipadamente.
+
+#### Complejidad de Espacio
+
+Bubble Sort es un algoritmo **in-place** (en el lugar), lo que significa que no requiere estructuras de datos adicionales. Todos los intercambios se realizan directamente en el mismo arreglo original, utilizando solo una cantidad constante de memoria adicional.
+
+Si te diste cuenta, Bubble Sort es bastante ineficiente para listas grandes y por lo mismo su uso en aplicaciones prácticas es bastante raro. Su principal utilidad es como herramienta pedagógica para introducir los conceptos básicos de los algoritmos de ordenamiento.
 
 <script src="https://giscus.app/client.js"
         data-repo="elerizoinformatico/elerizoinformatico.github.io"
