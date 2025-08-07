@@ -119,13 +119,13 @@ Si realizamos una gráfica, obtenemos una curva similar a la función cuadrátic
 
 La eficiencia de un algoritmo  se medi por su **complejidad de tiempo** (cuánto tiempo toma) y su **complejidad de espacio** (cuánta memoria necesita). Para el Bubble Sort, la complejidad de tiempo es su principal desventaja:
 
-#### Complejidad de Tiempo
+#### **Complejidad de Tiempo**
 
-* Peor caso ($$O(n^{2})$$): Ocurre cuando la lista está en orden inverso. El algoritmo debe recorrer toda la lista $$n$$ veces y en casa pasada realiza hasta $$n$$ comparaciones. Esto genera un número de operaciones proporcional a $$n x n$$, es decir, crecimiento cuadrático.
-* Caso promedio ($$O(n^{2})$$): Incluso con un orden aleatorio, el algoritmo sigue siendo ineficiente ya que el número de comparaciones e intercambios sigue siendo cuadrático en función del tamaño de la lista.
-* Mejor caso ($$O(n)$$): Sucede cuando la lista ya está ordenada. En este escenario, el algoritmo recorre la lista una sola vez y, al no detectar ningún intercambio, finaliza anticipadamente.
+* Peor caso $$O(n^{2})$$: Ocurre cuando la lista está en orden inverso. El algoritmo debe recorrer toda la lista $$n$$ veces y en casa pasada realiza hasta $$n$$ comparaciones. Esto genera un número de operaciones proporcional a $$n \cdot n$$, es decir, crecimiento cuadrático.
+* Caso promedio $$O(n^{2})$$: Incluso con un orden aleatorio, el algoritmo sigue siendo ineficiente ya que el número de comparaciones e intercambios sigue siendo cuadrático en función del tamaño de la lista.
+* Mejor caso $$O(n)$$: Sucede cuando la lista ya está ordenada. En este escenario, el algoritmo recorre la lista una sola vez y, al no detectar ningún intercambio, finaliza anticipadamente.
 
-#### Complejidad de Espacio
+#### **Complejidad de Espacio**
 
 Bubble Sort es un algoritmo **in-place** (en el lugar), lo que significa que no requiere estructuras de datos adicionales. Todos los intercambios se realizan directamente en el mismo arreglo original, utilizando solo una cantidad constante de memoria adicional.
 
