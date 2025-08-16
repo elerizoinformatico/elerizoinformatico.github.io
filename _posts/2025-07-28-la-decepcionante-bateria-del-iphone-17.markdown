@@ -4,8 +4,6 @@ title:  "La decepcionante batería del iPhone 17 Air será la más pequeña de s
 date:   2025-07-28 21:10:37
 ---
 
-El móvil más delgado de la historia de Apple también será el que cuente con una batería más pequeña, lo que no es una buena noticia.
-
 La batería es un componente esencial del smartphone, y en los últimos meses estamos viendo cómo este mercado ha evolucionado de manera notable con nuevas tecnologías que permiten aumentar su densidad. Los smartphones se lanzan cada vez con más batería, y a la vez conservando perfiles delgados. Esto es posible gracias a esas tecnologías que permiten aumentar la capacidad sin aumentar el grosor, o bien reducirlo para conservar la misma capacidad. El iPhone 17 Air parece que será tan extremo que renunciará a tener una batería de una capacidad mínima para su categoría.
 
 ### **Decepción en la batería del iPhone 17 Air**
