@@ -30,9 +30,9 @@ Para dimensionar qué tan grande es un gúgol:
 
 ### **Relación con otros números grandes**
 
-* Gúgolplex ($$10^{gúgol}$$): Es decir, un **1** seguido de un **gúgol** de ceros. Este número es tan enorme que **no puede escribirse físicamente en el universo observable**, ya que no habría espacio suficiente para todos sus dígitos.
-* Gúgolduplex ($$10^{gúgolplex}$$): Un **1** con un **gúgolplex** de ceros.
-* Gúgoltriplex: Un **1** con un **gúgolduplex** de ceros.
+* **Gúgolplex** ($$10^{gúgol}$$): Es decir, un **1** seguido de un **gúgol** de ceros. Este número es tan enorme que **no puede escribirse físicamente en el universo observable**, ya que no habría espacio suficiente para todos sus dígitos.
+* **Gúgolduplex** ($$10^{gúgolplex}$$): Un **1** con un **gúgolplex** de ceros.
+* **Gúgoltriplex**: Un **1** con un **gúgolduplex** de ceros.
 
 En general, el gúgol se utiliza más como un ejemplo pedagógico de lo que significa "un número grande" pero finito, que como algo con aplicación práctica directa.
 
