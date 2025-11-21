@@ -117,7 +117,7 @@ Si realizamos una gráfica, obtenemos una curva similar a la función cuadrátic
 
 ### **Complejidad**
 
-La eficiencia de un algoritmo  se medi por su **complejidad de tiempo** (cuánto tiempo toma) y su **complejidad de espacio** (cuánta memoria necesita). Para el Bubble Sort, la complejidad de tiempo es su principal desventaja:
+La eficiencia de un algoritmo  se mide por su **complejidad de tiempo** (cuánto tiempo toma) y su **complejidad de espacio** (cuánta memoria necesita). Para el Bubble Sort, la complejidad de tiempo es su principal desventaja:
 
 #### **Complejidad de Tiempo**
 
