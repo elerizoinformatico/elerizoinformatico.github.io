@@ -121,7 +121,7 @@ La eficiencia de un algoritmo  se mide por su **complejidad de tiempo** (cuánto
 
 #### **Complejidad de Tiempo**
 
-* **Peor caso** $$O(n^{2})$$: Ocurre cuando la lista está en orden inverso. El algoritmo debe recorrer toda la lista $$n$$ veces y en casa pasada realiza hasta $$n$$ comparaciones. Esto genera un número de operaciones proporcional a $$n \cdot n$$, es decir, crecimiento cuadrático.
+* **Peor caso** $$O(n^{2})$$: Ocurre cuando la lista está en orden inverso. El algoritmo debe recorrer toda la lista $$n$$ veces y en cada pasada realiza hasta $$n$$ comparaciones. Esto genera un número de operaciones proporcional a $$n \cdot n$$, es decir, crecimiento cuadrático.
 * **Caso promedio** $$O(n^{2})$$: Incluso con un orden aleatorio, el algoritmo sigue siendo ineficiente ya que el número de comparaciones e intercambios sigue siendo cuadrático en función del tamaño de la lista.
 * **Mejor caso** $$O(n)$$: Sucede cuando la lista ya está ordenada. En este escenario, el algoritmo recorre la lista una sola vez y, al no detectar ningún intercambio, finaliza anticipadamente.
 
