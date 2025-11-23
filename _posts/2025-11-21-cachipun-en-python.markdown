@@ -4,7 +4,7 @@ title:  "Juego del Cachipún en Python"
 date:   2025-11-21 18:01:14
 ---
 
-En esta ocasión vamos a programar el mítico **"Cachipún"** o **"Piedra, Papel o Tijera"** con un sencillo código en Python.
+En esta ocasión, vamos a programar el mítico juego del **"Cachipún"** o **"Piedra, Papel o Tijera"** con un sencillo código en Python.
 
 Para implementar este juego, utilizaremos el método random para que genere automáticamente la **"jugada"** de la máquina:
 
