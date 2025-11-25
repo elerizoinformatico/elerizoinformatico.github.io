@@ -60,6 +60,56 @@ El código es muy sencillo, por una parte generamos un número aleatorio con `ra
 
 Por otra parte, si queremos jugar varias veces, solo tendremos que introducir un bucle `while` en el juego con la típica pregunta **si o no** al final.
 
+### Versión 2.0
+
+Podemos "aprovechar" las características de Python para **mejorar** el código:
+
+{% highlight python %}
+import random
+
+def obtener_ganador(jugador, maquina):
+    # Reglas del juego
+    reglas = {
+        "piedra": "tijeras",
+        "papel": "piedra",
+        "tijeras": "papel"
+    }
+
+    if jugador == maquina:
+        return "Empate"
+    elif reglas[jugador] == maquina:
+        return "Ganaste"
+    else:
+        return "Perdiste"
+
+def jugar():
+    opciones = ["piedra", "papel", "tijeras"]
+
+    print("=== Piedra, Papel o Tijeras ===")
+    jugador = input("Elige (piedra, papel o tijeras): ").lower()
+
+    # Validar entrada
+    while jugador not in opciones:
+        jugador = input("Opción inválida. Elige (piedra, papel o tijeras): ").lower()
+
+    maquina = random.choice(opciones)
+    print(f"La máquina eligió: {maquina}")
+
+    resultado = obtener_ganador(jugador, maquina)
+    print(f"Resultado: {resultado}")
+
+if __name__ == "__main__":
+    jugar()
+{% endhighlight %}
+
+Principales características:
+* Validación de entrada: evitamos que el usuario ingrese valores fuera de las opciones.
+* Lógica limpia ya que utilizamos un diccionario de reglas.
+* Función modularizada para reutilización de código o pruebas.
+* Modo ejecutable con `if __name__ == "__main__":`
+
+Ambos programas cumplen la misma función, pero su principal diferencia radica en que la **primera versión es menos ordenada y más repetitiva**, mientras que la **segunda versión es más limpia y fácil de testear o reutilizar**.
+
 <script src="https://giscus.app/client.js"
         data-repo="elerizoinformatico/elerizoinformatico.github.io"
         data-repo-id="R_kgDONQWa5A"
