@@ -60,7 +60,7 @@ El código es muy sencillo, por una parte generamos un número aleatorio con `ra
 
 Por otra parte, si queremos jugar varias veces, solo tendremos que introducir un bucle `while` en el juego con la típica pregunta **si o no** al final.
 
-### Versión 2.0
+### **Versión 2.0**
 
 Podemos "aprovechar" las características de Python para **mejorar** el código:
 
