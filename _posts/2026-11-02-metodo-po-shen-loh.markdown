@@ -150,8 +150,7 @@ $$
 - $$-b = -6$$, $$c = 9$$.
 - Promedio: $$m = -3$$.
 - Raíces: $$-3 \pm u$$.
-- Producto: $$(-3)^2 - u^2 = 9 - u^2 = 9$$.
-- $$u^2 = 0 \;\Rightarrow\; u = 0$$.
+- $$u^2 = \frac{6^2}{4} - 9 = 0 \;\Rightarrow\; u = 0$$
 
 $$
 x_1 = x_2 = -3 \quad \text{(raíz doble)}
