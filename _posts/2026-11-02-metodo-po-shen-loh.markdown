@@ -10,13 +10,13 @@ La idea central es: **dos números cuya suma y producto conocemos son simétrico
 
 ### **El fundamento: las relaciones de Vieta**
 
-Si una ecuación cuadrática **mónica** (coeficiente principal igual a 1)
+Si una ecuación cuadrática **mónica** (coeficiente principal igual a 1):
 
 $$
 x^2 + bx + c = 0
 $$
 
-Tiene raíces $r_1$ y $r_2$, entonces puede escribirse como
+Tiene raíces $$r_1$$ y $$r_2$$, entonces puede escribirse como:
 
 $$
 (x - r_1)(x - r_2) = x^2 - (r_1 + r_2)\,x + r_1 r_2 = 0 .
@@ -28,23 +28,23 @@ $$
 r_1 + r_2 = -b \qquad\qquad r_1 \cdot r_2 = c
 $$
 
-Así, resolver la ecuación equivale a encontrar **dos números cuya suma es $-b$ y cuyo producto es $c$.**
+Así, resolver la ecuación equivale a encontrar **dos números cuya suma es $$-b$$ y cuyo producto es $$c$$**.
 
 ### **La idea clave: simetría respecto del promedio**
 
-Si dos números suman $-b$, su promedio es $-\dfrac{b}{2}$. Entonces uno está a cierta distancia $u$ por encima del promedio y el otro a la misma distancia por debajo:
+Si dos números suman $$-b$$, su promedio es $$-\dfrac{b}{2}$$. Entonces uno está a cierta distancia $$u$$ por encima del promedio y el otro a la misma distancia por debajo:
 
 $$
 r_1 = -\frac{b}{2} + u \qquad\qquad r_2 = -\frac{b}{2} - u
 $$
 
-La suma se cumple automáticamente, cualquiera sea $u$:
+La suma se cumple automáticamente, cualquiera sea $$u$$:
 
 $$
 r_1 + r_2 = \left(-\frac{b}{2} + u\right) + \left(-\frac{b}{2} - u\right) = -b \quad \checkmark
 $$
 
-Solo falta imponer la condición del producto. Usando la diferencia de cuadrados $(m+u)(m-u) = m^2 - u^2$:
+Solo falta imponer la condición del producto. Usando la diferencia de cuadrados $$(m+u)(m-u) = m^2 - u^2$$:
 
 $$
 \left(-\frac{b}{2} + u\right)\left(-\frac{b}{2} - u\right) = \frac{b^2}{4} - u^2 = c
@@ -73,7 +73,7 @@ $$
 7. **Escribe las raíces:** $x = m \pm u$.
 8. **Verifica** (opcional pero recomendado) que la suma y el producto coincidan.
 
-### **Clasificación de las raíces según $u^2$**
+### **Clasificación de las raíces según $$u^2$$**
 
 PDTE
 
