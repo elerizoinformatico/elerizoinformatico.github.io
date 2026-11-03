@@ -88,12 +88,12 @@ El valor de $$u^2$$ cumple el mismo papel que el discriminante:
   <tbody>
     <tr>
       <td style="border: 1px solid black; text-align: center;">$$u^2 > 0$$</td>
-      <td style="border: 1px solid black; text-align: center;">Reales, distintas y racionales (◻ perfecto)</td>
+      <td style="border: 1px solid black; text-align: center;">Reales, distintas y racionales</td>
       <td style="border: 1px solid black; text-align: center;">$$m \pm u$$</td>
     </tr>
     <tr>
       <td style="border: 1px solid black; text-align: center;">$$u^2 > 0$$</td>
-      <td style="border: 1px solid black; text-align: center;">Reales, distintas e irracionales (◻ no perfecto)</td>
+      <td style="border: 1px solid black; text-align: center;">Reales, distintas e irracionales</td>
       <td style="border: 1px solid black; text-align: center;">$$m \pm \sqrt{u^2}$$</td>
     </tr>
     <tr>
