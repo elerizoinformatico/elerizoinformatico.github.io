@@ -147,10 +147,10 @@ $$
 x^2 + 6x + 9 = 0
 $$
 
-- $$-b = -6$$, $$c = 9$$.
-- Promedio: $$m = -3$$.
+- $$x_1 + x_2 = -6$$ y $$x_1 \cdot x_2 = 9$$
+- $$m = -3$$
 - Raíces: $$-3 \pm u$$.
-- $$u^2 = \frac{6^2}{4} - 9 = 0 \;\Rightarrow\; u = 0$$
+- $$u^2 = (-3)^2 - 9 = 0 \;\Rightarrow\; u = 0$$
 
 $$
 x_1 = x_2 = -3 \quad \text{(raíz doble)}
