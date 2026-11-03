@@ -6,7 +6,7 @@ date:   2026-11-02 22:21:47
 
 En 2019, el matemático **Po-Shen Loh** (Carnegie Mellon University) popularizó una forma de resolver ecuaciones cuadráticas sin memorizar la fórmula general ni adivinar factorizaciones. Las ideas de fondo son antiguas (aparecen en escritos matemáticos babilónicos y en las relaciones de Vieta), pero Loh las organizó como un procedimiento directo e intuitivo.
 
-La idea central es: **dos números cuya suma y producto conocemos son simétricos respecto de su promedio.**
+La idea central es: **dos números cuya suma y producto conocemos son simétricos respecto de su promedio**.
 
 ### **El fundamento: las relaciones de Vieta**
 
@@ -75,7 +75,26 @@ $$
 
 ### **Clasificación de las raíces según $$u^2$$**
 
-PDTE
+El valor de $$u^2$$ cumple el mismo papel que el discriminante:
+
+| Valor de $u^2$ | Tipo de raíces | Forma |
+|---|---|---|
+| $$u^2 > 0$$ y cuadrado perfecto (racional) | Reales, distintas y racionales | $$m \pm u$$ |
+| $$u^2 > 0$$, no cuadrado perfecto | Reales, distintas e irracionales | $$m \pm \sqrt{u^2}$$ |
+| $$u^2 = 0$$ | Real doble (repetida) | $$x = m$$ |
+| $$u^2 < 0$$ | Complejas conjugadas | $$m \pm i\sqrt{\lvert u^2 \rvert}$$ |
+
+**Relación con el discriminante** $$\Delta = b^2 - 4c$$ (caso mónico):
+
+$$
+u^2 = \frac{b^2}{4} - c = \frac{b^2 - 4c}{4} = \frac{\Delta}{4}
+$$
+
+Por eso el signo de $$u^2$$ coincide con el signo de $$\Delta$$.
+
+### **Conexión con la fórmula general**
+
+PDTE.
 
 <script src="https://giscus.app/client.js"
         data-repo="elerizoinformatico/elerizoinformatico.github.io"
