@@ -147,10 +147,10 @@ $$
 x^2 + 6x + 9 = 0
 $$
 
-- $$x_1 + x_2 = -6$$ y $$x_1 \cdot x_2 = 9$$
-- $$m = -3$$
+- $$x_1 + x_2 = -6$$ y $$x_1 \cdot x_2 = 9$$.
+- $$m = -3$$.
 - Raíces: $$-3 \pm u$$.
-- $$u^2 = (-3)^2 - 9 = 0 \;\Rightarrow\; u = 0$$
+- $$u^2 = (-3)^2 - 9 = 0 \;\Rightarrow\; u = 0$$.
 
 $$
 x_1 = x_2 = -3 \quad \text{(raíz doble)}
@@ -158,16 +158,16 @@ $$
 
 **Verificación:** $$(-3) + (-3) = -6$$ y $$(-3)(-3) = 9$$.
 
-**Ejemplo 2: Raíces reales racionales distintas**
+**<u>Ejemplo 2</u>: Raíces reales racionales distintas**
 
 $$
 x^2 - 8x + 15 = 0
 $$
 
-- Suma: $$8$$. Producto: $$15$$.
-- Promedio: $$m = 4$$. Raíces: $$4 + u$$ y $$4 - u$$.
-- Producto: $$(4 + u)(4 - u) = 16 - u^2 = 15$$.
-- $$u^2 = 1 \;\Rightarrow\; u = 1$$.
+- $x_1 + x_2 = 8$$ y $$x_1 \cdot x_2 = 15$$.
+- $$m = 4$$.
+- Raíces: $$4 \pm u$$.
+- $$u^2 = 4^2 - 15 = 1 \;\Rightarrow\; u = 1$$.
 
 $$
 x_1 = 5, \qquad x_2 = 3
