@@ -4,7 +4,7 @@ title:  "El método de Po-Shen Loh para ecuaciones cuadráticas"
 date:   2026-11-02 22:21:47
 ---
 
-En 2019, el matemático **Po-Shen Loh** (Carnegie Mellon University) popularizó una forma de resolver ecuaciones cuadráticas sin memorizar la fórmula general ni adivinar factorizaciones. Las ideas de fondo son antiguas (aparecen en matemáticos babilónicos y en las relaciones de Vieta), pero Loh las organizó como un procedimiento directo e intuitivo.
+En 2019, el matemático **Po-Shen Loh** (Carnegie Mellon University) popularizó una forma de resolver ecuaciones cuadráticas sin memorizar la fórmula general ni adivinar factorizaciones. Las ideas de fondo son antiguas (aparecen en escritos matemáticos babilónicos y en las relaciones de Vieta), pero Loh las organizó como un procedimiento directo e intuitivo.
 
 La idea central es: **dos números cuya suma y producto conocemos son simétricos respecto de su promedio.**
 
