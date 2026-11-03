@@ -147,8 +147,9 @@ $$
 x^2 + 6x + 9 = 0
 $$
 
-- Suma: $$-6$$. Producto: $$9$$.
-- Promedio: $$m = -3$$. Raíces: $$-3 \pm u$$.
+- $$-b = -6$$, $$c = 9$$.
+- Promedio: $$m = -3$$.
+- Raíces: $$-3 \pm u$$.
 - Producto: $$(-3)^2 - u^2 = 9 - u^2 = 9$$.
 - $$u^2 = 0 \;\Rightarrow\; u = 0$$.
 
