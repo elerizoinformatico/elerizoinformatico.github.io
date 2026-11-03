@@ -141,7 +141,7 @@ Es decir, **el método de Po-Shen Loh reconstruye la fórmula general** a partir
 
 ### **Ejemplos**
 
-#### Ejemplo 1: Raíz real doble
+**<u>Ejemplo 1</u>: Raíz real doble**
 
 $$
 x^2 + 6x + 9 = 0
@@ -156,9 +156,9 @@ $$
 x_1 = x_2 = -3 \quad \text{(raíz doble)}
 $$
 
-**Verificación:** $$(-3) + (-3) = -6$$ y $$(-3)(-3) = 9$$. De hecho, $$x^2 + 6x + 9 = (x+3)^2$$.
+**Verificación:** $$(-3) + (-3) = -6$$ y $$(-3)(-3) = 9$$.
 
-#### Ejemplo 2: Raíces reales racionales distintas
+**Ejemplo 2: Raíces reales racionales distintas**
 
 $$
 x^2 - 8x + 15 = 0
@@ -175,7 +175,7 @@ $$
 
 **Verificación:** $$5 + 3 = 8$$ y $$5 \cdot 3 = 15$$.
 
-#### Ejemplo 4: Raíces reales irracionales
+**Ejemplo 3: Raíces reales irracionales**
 
 $$
 x^2 - 4x + 1 = 0
