@@ -119,6 +119,28 @@ Por eso el signo de $$u^2$$ coincide con el signo de $$\Delta$$.
 
 ### **Conexión con la fórmula general**
 
+Para $$ax^2 + bx + c = 0$$, al dividir por $$a$$:
+
+$$
+x^2 + \frac{b}{a}\,x + \frac{c}{a} = 0
+$$
+
+Aplicando el método con $m = -\dfrac{b}{2a}$:
+
+$$
+u^2 = \frac{b^2}{4a^2} - \frac{c}{a} = \frac{b^2 - 4ac}{4a^2}
+\quad\Longrightarrow\quad
+u = \frac{\sqrt{b^2 - 4ac}}{2a}
+$$
+
+$$
+x = -\frac{b}{2a} \pm \frac{\sqrt{b^2 - 4ac}}{2a} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
+Es decir, **el método de Po-Shen Loh reconstruye la fórmula general** a partir de una idea intuitiva, sin necesidad de memorizarla.
+
+### **Ejemplos**
+
 PDTE.
 
 <script src="https://giscus.app/client.js"
