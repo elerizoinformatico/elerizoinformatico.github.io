@@ -164,7 +164,7 @@ $$
 x^2 - 8x + 15 = 0
 $$
 
-- $x_1 + x_2 = 8$$ y $$x_1 \cdot x_2 = 15$$.
+- $$x_1 + x_2 = 8$$ y $$x_1 \cdot x_2 = 15$$.
 - $$m = 4$$.
 - Raíces: $$4 \pm u$$.
 - $$u^2 = 4^2 - 15 = 1 \;\Rightarrow\; u = 1$$.
@@ -175,24 +175,39 @@ $$
 
 **Verificación:** $$5 + 3 = 8$$ y $$5 \cdot 3 = 15$$.
 
-**Ejemplo 3: Raíces reales irracionales**
+**<u>Ejemplo 3</u>: Raíces reales irracionales**
 
 $$
 x^2 - 4x + 1 = 0
 $$
 
-- Suma: $$4$$. Producto: $$1$$.
-- Promedio: $$m = 2$$. Raíces: $$2 \pm u$$.
-- Producto: $$4 - u^2 = 1$$.
-- $$u^2 = 3 \;\Rightarrow\; u = \sqrt{3}$$.
+- $$x_1 + x_2 = 4$$ y $$x_1 \cdot x_2 = 1$$.
+- $$m = 2$$.
+- Raíces: $$2 \pm u$$.
+- $$u^2 = 2^2 - 1 = 3 \;\Rightarrow\; u = \sqrt{3}$$.
 
 $$
 x_1 = 2 + \sqrt{3}, \qquad x_2 = 2 - \sqrt{3}
 $$
 
-**Verificación:** suma $$= 4$$; producto $$= 2^2 - (\sqrt{3})^2 = 4 - 3 = 1$$.
+**Verificación:** $$(2 + \sqrt{3}) + (2 - \sqrt{3}) = 4$$ y $$ (2 + \sqrt{3})(2 - \sqrt{3}) = 1$$.
 
-PDTE.
+**<u>Ejemplo 4</u>: Raíces complejas conjugadas**
+
+$$
+x^2 + 2x + 5 = 0
+$$
+
+- $$x_1 + x_2 = -2$$ y $$x_1 \cdot x_2 = 5$$.
+- $$m = -1$$.
+- Raíces: $$-1 \pm u$$.
+- $$u^2 = (-1)^2 - 5 = -4 \;\Rightarrow\; u = \sqrt{-4} = 2i$$.
+
+$$
+x_1 = -1 + 2i, \qquad x_2 = -1 - 2i
+$$
+
+**Verificación:** $$(-1 + 2i) + (-1 - 2i) = -2$$ y $$(-1 + 2i)(-1 - 2i) = 5$$
 
 <script src="https://giscus.app/client.js"
         data-repo="elerizoinformatico/elerizoinformatico.github.io"
