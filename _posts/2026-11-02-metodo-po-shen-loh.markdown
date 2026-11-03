@@ -80,19 +80,19 @@ El valor de $$u^2$$ cumple el mismo papel que el discriminante:
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th style="border: 1px solid black; background-color: #f2f2f2; text-align: center;">Valor de $$u^2$$</th>
-      <th style="border: 1px solid black; text-align: center;">Tipo de raíces</th>
-      <th style="border: 1px solid black; text-align: center;">Forma</th>
+      <th style="border: 1px solid black; background-color: #f2f2f2; text-align: center;">$$u^2$$</th>
+      <th style="border: 1px solid black; background-color: #f2f2f2; text-align: center;">Tipo de raíces</th>
+      <th style="border: 1px solid black; background-color: #f2f2f2; text-align: center;">Forma</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid black; text-align: center;">$$u^2 > 0$$ y cuadrado perfecto (racional)</td>
+      <td style="border: 1px solid black; text-align: center;">$$u^2 > 0$$ (y cuadrado perfecto racional)</td>
       <td style="border: 1px solid black; text-align: center;">Reales, distintas y racionales</td>
       <td style="border: 1px solid black; text-align: center;">$$m \pm u$$</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; text-align: center;">$$u^2 > 0$$, no cuadrado perfecto</td>
+      <td style="border: 1px solid black; text-align: center;">$$u^2 > 0$$ (no cuadrado perfecto)</td>
       <td style="border: 1px solid black; text-align: center;">Reales, distintas e irracionales</td>
       <td style="border: 1px solid black; text-align: center;">$$m \pm \sqrt{u^2}$$</td>
     </tr>
