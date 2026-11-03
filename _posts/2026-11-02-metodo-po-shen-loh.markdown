@@ -125,7 +125,7 @@ $$
 x^2 + \frac{b}{a}\,x + \frac{c}{a} = 0
 $$
 
-Aplicando el método con $m = -\dfrac{b}{2a}$:
+Aplicando el método con $$m = -\dfrac{b}{2a}$$:
 
 $$
 u^2 = \frac{b^2}{4a^2} - \frac{c}{a} = \frac{b^2 - 4ac}{4a^2}
@@ -140,6 +140,57 @@ $$
 Es decir, **el método de Po-Shen Loh reconstruye la fórmula general** a partir de una idea intuitiva, sin necesidad de memorizarla.
 
 ### **Ejemplos**
+
+#### Ejemplo 1: Raíz real doble
+
+$$
+x^2 + 6x + 9 = 0
+$$
+
+- Suma: $$-6$$. Producto: $$9$$.
+- Promedio: $$m = -3$$. Raíces: $$-3 \pm u$$.
+- Producto: $$(-3)^2 - u^2 = 9 - u^2 = 9$$.
+- $$u^2 = 0 \;\Rightarrow\; u = 0$$.
+
+$$
+x_1 = x_2 = -3 \quad \text{(raíz doble)}
+$$
+
+**Verificación:** $$(-3) + (-3) = -6$$ y $$(-3)(-3) = 9$$. De hecho, $$x^2 + 6x + 9 = (x+3)^2$$.
+
+#### Ejemplo 2: Raíces reales racionales distintas
+
+$$
+x^2 - 8x + 15 = 0
+$$
+
+- Suma: $$8$$. Producto: $$15$$.
+- Promedio: $$m = 4$$. Raíces: $$4 + u$$ y $$4 - u$$.
+- Producto: $$(4 + u)(4 - u) = 16 - u^2 = 15$$.
+- $$u^2 = 1 \;\Rightarrow\; u = 1$$.
+
+$$
+x_1 = 5, \qquad x_2 = 3
+$$
+
+**Verificación:** $$5 + 3 = 8$$ y $$5 \cdot 3 = 15$$.
+
+#### Ejemplo 4: Raíces reales irracionales
+
+$$
+x^2 - 4x + 1 = 0
+$$
+
+- Suma: $$4$$. Producto: $$1$$.
+- Promedio: $$m = 2$$. Raíces: $$2 \pm u$$.
+- Producto: $$4 - u^2 = 1$$.
+- $$u^2 = 3 \;\Rightarrow\; u = \sqrt{3}$$.
+
+$$
+x_1 = 2 + \sqrt{3}, \qquad x_2 = 2 - \sqrt{3}
+$$
+
+**Verificación:** suma $$= 4$$; producto $$= 2^2 - (\sqrt{3})^2 = 4 - 3 = 1$$.
 
 PDTE.
 
