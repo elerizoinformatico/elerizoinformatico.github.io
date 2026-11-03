@@ -175,7 +175,7 @@ $$
 
 **Verificación:** $$5 + 3 = 8$$ y $$5 \cdot 3 = 15$$.
 
-**<u>Ejemplo 3</u>: Raíces reales irracionales**
+**<u>Ejemplo 3</u>: Raíces reales irracionales distintas**
 
 $$
 x^2 - 4x + 1 = 0
@@ -208,6 +208,15 @@ x_1 = -1 + 2i, \qquad x_2 = -1 - 2i
 $$
 
 **Verificación:** $$(-1 + 2i) + (-1 - 2i) = -2$$ y $$(-1 + 2i)(-1 - 2i) = 5$$
+
+### **Ejercicios propuestos**
+
+1. $$x^2 - 2x - 15 = 0$$.
+2. $$x^2 + 6x + 4 = 0$$.
+3. $$x^2 - 10x + 25 = 0$$.
+4. $$x^2 - 4x + 13 = 0$$.
+5. $$4x^2 - 4x - 3 = 0$$.
+6. $$2x^2 + 4x - 1 = 0$$.
 
 <script src="https://giscus.app/client.js"
         data-repo="elerizoinformatico/elerizoinformatico.github.io"
