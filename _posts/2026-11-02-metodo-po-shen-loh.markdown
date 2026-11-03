@@ -217,6 +217,8 @@ $$
 4. $$x^2 - 4x + 13 = 0$$.
 5. $$4x^2 - 4x - 3 = 0$$.
 6. $$2x^2 + 4x - 1 = 0$$.
+7. $$2x^2 - 18 = 0$$.
+8. $$3x^2 - 12x = 0$$.
 
 <script src="https://giscus.app/client.js"
         data-repo="elerizoinformatico/elerizoinformatico.github.io"
