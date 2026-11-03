@@ -19,7 +19,7 @@ $$
 Tiene raíces $$r_1$$ y $$r_2$$, entonces puede escribirse como:
 
 $$
-(x - r_1)(x - r_2) = x^2 - (r_1 + r_2)\,x + r_1 r_2 = 0 .
+(x - r_1)(x - r_2) = x^2 - (r_1 + r_2)\,x + r_1 r_2 = 0
 $$
 
 Comparando coeficientes se obtiene:
@@ -41,7 +41,7 @@ $$
 La suma se cumple automáticamente, cualquiera sea $$u$$:
 
 $$
-r_1 + r_2 = \left(-\frac{b}{2} + u\right) + \left(-\frac{b}{2} - u\right) = -b \quad \checkmark
+r_1 + r_2 = \left(-\frac{b}{2} + u\right) + \left(-\frac{b}{2} - u\right) = -b
 $$
 
 Solo falta imponer la condición del producto. Usando la diferencia de cuadrados $$(m+u)(m-u) = m^2 - u^2$$:
@@ -64,13 +64,13 @@ $$
 
 ### **El procedimiento paso a paso**
 
-1. **Normaliza:** si la ecuación es $ax^2 + bx + c = 0$ con $a \neq 1$, divide todo por $a$ para dejarla mónica.
-2. **Identifica suma y producto:** las raíces suman $-b$ y multiplican $c$ (con los coeficientes ya normalizados).
-3. **Calcula el promedio:** $m = -\dfrac{b}{2}$.
-4. **Escribe las raíces como** $m + u$ y $m - u$.
-5. **Plantea el producto:** $m^2 - u^2 = c$.
-6. **Despeja** $u^2 = m^2 - c$ y luego $u$.
-7. **Escribe las raíces:** $x = m \pm u$.
+1. **Normaliza:** si la ecuación es $$ax^2 + bx + c = 0$$ con $$a \neq 1$$, divide todo por $$a$$ para dejarla mónica.
+2. **Identifica suma y producto:** las raíces suman $$-b$$ y multiplican $$c$$ (con los coeficientes ya normalizados).
+3. **Calcula el promedio:** $$m = -\dfrac{b}{2}$$.
+4. **Escribe las raíces como** $$m + u$$ y $$m - u$$.
+5. **Plantea el producto:** $$m^2 - u^2 = c$$.
+6. **Despeja** $$u^2 = m^2 - c$$ y luego $$u$$.
+7. **Escribe las raíces:** $$x = m \pm u$$.
 8. **Verifica** (opcional pero recomendado) que la suma y el producto coincidan.
 
 ### **Clasificación de las raíces según $$u^2$$**
